@@ -81,17 +81,6 @@ extension ViewController: MKMapViewDelegate {
         let longitude = mapView.centerCoordinate.longitude
         guard let location = self.getNearestLocation(Float(latitude), Float(longitude)) else { return }
         self.locationLabel.text = location.location
-//        let location = CLLocation(latitude: latitude, longitude: longitude)
-//        self.geocoder.reverseGeocodeLocation(location) { placemarks, error in
-//            guard let placemark = placemarks?.first else { return }
-//            let administrativeArea = placemark.administrativeArea ?? ""
-//            let locality = placemark.locality ?? ""
-//            let subLocality = placemark.subLocality ?? ""
-//            let thoroughfare = placemark.thoroughfare ?? ""
-//            let subThoroughfare = placemark.subThoroughfare ?? ""
-//            let placeName = thoroughfare.contains(subThoroughfare) ? thoroughfare : subLocality
-//            self.locationLabel.text = "\(administrativeArea) \(locality) \(placeName)"
-//        }
     }
 
     private func getNearestLocation(_ latitude: Float, _ longitude: Float) -> Location? {
