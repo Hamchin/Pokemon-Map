@@ -1,0 +1,3740 @@
+[
+    {
+        "location": "マサラタウン",
+        "realLocation": "静岡県下田市",
+        "address": "Shimoda, Shizuoka, Japan",
+        "latitude": 34.6796171,
+        "longitude": 138.9451459
+    },
+    {
+        "location": "1ばんどうろ",
+        "realLocation": "伊豆半島",
+        "address": "Izu, Shizuoka, Japan",
+        "latitude": 34.9766167,
+        "longitude": 138.94655
+    },
+    {
+        "location": "トキワシティ",
+        "realLocation": "静岡県三島市、神奈川県箱根町付近",
+        "address": "Mishima, Shizuoka, Japan",
+        "latitude": 35.1184912,
+        "longitude": 138.9184977
+    },
+    {
+        "location": "トキワのもり",
+        "realLocation": "町田市かしの木山",
+        "address": "Kashinokiyama Natural Park, 3-chōme-9-９番 Nishinaruse, Machida, Tōkyō-to 194-0046, Japan",
+        "latitude": 35.5506996,
+        "longitude": 139.4668538
+    },
+    {
+        "location": "2ばんどうろ",
+        "realLocation": "埼玉県秩父市",
+        "address": "Chichibu, Saitama, Japan",
+        "latitude": 35.9916443,
+        "longitude": 139.0855869
+    },
+    {
+        "location": "ニビシティ",
+        "realLocation": "群馬県前橋市",
+        "address": "Maebashi, Gunma, Japan",
+        "latitude": 36.3894669,
+        "longitude": 139.0634134
+    },
+    {
+        "location": "3ばんどうろ",
+        "realLocation": "群馬県桐生市 足利市",
+        "address": "Ashikaga, Tochigi, Japan",
+        "latitude": 36.3401874,
+        "longitude": 139.4497602
+    },
+    {
+        "location": "おつきみやま",
+        "realLocation": "赤城山",
+        "address": "Akagiyama, Fujimimachi Akagisan, Maebashi, Gunma 371-0101, Japan",
+        "latitude": 36.5389572,
+        "longitude": 139.1664295
+    },
+    {
+        "location": "4ばんどうろ",
+        "realLocation": "栃木県佐野市 栃木市",
+        "address": "Sano, Tochigi, Japan",
+        "latitude": 36.3143908,
+        "longitude": 139.5783915
+    },
+    {
+        "location": "ハナダシティ",
+        "realLocation": "栃木県宇都宮市",
+        "address": "Utsunomiya, Tochigi, Japan",
+        "latitude": 36.5550745,
+        "longitude": 139.8826209
+    },
+    {
+        "location": "ハナダのどうくつ",
+        "realLocation": "足尾銅山",
+        "address": "9-2 Ashiomachitsūdō, Nikko, Tochigi 321-1514, Japan",
+        "latitude": 36.633346,
+        "longitude": 139.4399328
+    },
+    {
+        "location": "24ばんどうろ〜25ばんどうろ",
+        "realLocation": "日光国立公園 那須塩原付近",
+        "address": "Nikko National Park, Yumoto, Nikko, Tochigi 321-1662, Japan",
+        "latitude": 36.907959,
+        "longitude": 139.6573619
+    },
+    {
+        "location": "みさきのこや",
+        "realLocation": "茨城県北茨城市 付近",
+        "address": "Kitaibaraki, Ibaraki, Japan",
+        "latitude": 36.801915,
+        "longitude": 140.7510448
+    },
+    {
+        "location": "9ばんどうろ",
+        "realLocation": "水戸線",
+        "address": "Ibaraki, Higashiibaraki District, Ibaraki, Japan",
+        "latitude": 36.2869435,
+        "longitude": 140.4245362
+    },
+    {
+        "location": "イワヤマトンネル",
+        "realLocation": "筑波山",
+        "address": "Mount Tsukuba, Tsukuba, Ibaraki 300-4352, Japan",
+        "latitude": 36.2253757,
+        "longitude": 140.1074925
+    },
+    {
+        "location": "6ばんどうろ",
+        "realLocation": "京葉線",
+        "address": "Keiyosen-dori Ave, Chiba, Japan",
+        "latitude": 35.6155687,
+        "longitude": 140.0942804
+    },
+    {
+        "location": "クチバシティ",
+        "realLocation": "横浜港、横須賀港、千葉港",
+        "address": "1 Chome-6 Chuoko, 中央 千葉市 千葉県 260-0024, Japan",
+        "latitude": 35.600715,
+        "longitude": 140.1062566
+    },
+    {
+        "location": "ディグダのあな(クチバシティ側)",
+        "realLocation": "加曽利貝塚",
+        "address": "Japan, 〒264-0028 Chiba, Wakaba-ku, Sakuragi, 8 Chome−３３−１",
+        "latitude": 35.62354,
+        "longitude": 140.1639658
+    },
+    {
+        "location": "11ばんどうろから15ばんどうろ",
+        "realLocation": "外房線",
+        "address": "Mobara Station, Mobara, Chiba, Japan",
+        "latitude": 35.4268738,
+        "longitude": 140.3040484
+    },
+    {
+        "location": "むじんはつでんしょ",
+        "realLocation": "東海発電所",
+        "address": "1-1 Shirakata, 大字 Tokai, Naka-gun, Ibaraki 319-1106, Japan",
+        "latitude": 36.466437,
+        "longitude": 140.606662
+    },
+    {
+        "location": "シオンタウン",
+        "realLocation": "茨城県牛久市",
+        "address": "Ushiku, Ibaraki, Japan",
+        "latitude": 35.97939640000001,
+        "longitude": 140.14955
+    },
+    {
+        "location": "ポケモンタワー",
+        "realLocation": "牛久大仏",
+        "address": "2083 Kunochō, Ushiku, Ibaraki 300-1288, Japan",
+        "latitude": 35.9826885,
+        "longitude": 140.2202548
+    },
+    {
+        "location": "8ばんどうろ",
+        "realLocation": "京成東成田線",
+        "address": "Keisei-Narita Station, Hanazakichō, Narita, Chiba 286-0033, Japan",
+        "latitude": 35.7767266,
+        "longitude": 140.3156532
+    },
+    {
+        "location": "12ばんどうろ",
+        "realLocation": "銚子市から九十九里浜 付近",
+        "address": "Japan, 〒283-0104 Chiba, Sanbu-gun, 山武郡九十九里町片貝Katakai, 6928番地",
+        "latitude": 35.528915,
+        "longitude": 140.451465
+    },
+    {
+        "location": "ちかつうろ",
+        "realLocation": "東西メトロ東西線",
+        "address": "Baraki-Nakayama Station, ７-７-1 本中山 船橋市 千葉県 273-0035, Japan",
+        "latitude": 35.7033579,
+        "longitude": 139.9418925
+    },
+    {
+        "location": "7ばんどうろ",
+        "realLocation": "新宿御苑または代々木公園",
+        "address": "Yoyogi Park, 2-1 Yoyogikamizonochō, Shibuya City, Tōkyō-to 151-0052, Japan",
+        "latitude": 35.6715869,
+        "longitude": 139.6967028
+    },
+    {
+        "location": "タマムシシティ",
+        "realLocation": "多摩ニュータウン (東京都八王子市付近)、世田谷区",
+        "address": "2 Chome Bessho, Hachioji, Tokyo 192-0363, Japan",
+        "latitude": 35.6111674,
+        "longitude": 139.3951414
+    },
+    {
+        "location": "5ばんどうろ",
+        "realLocation": "埼玉県さいたま市",
+        "address": "Saitama, Japan",
+        "latitude": 35.8616486,
+        "longitude": 139.6454782
+    },
+    {
+        "location": "ヤマブキシティ",
+        "realLocation": "東京都 都心部（新宿区・千代田区付近）",
+        "address": "Chiyoda City, Tokyo, Japan",
+        "latitude": 35.6940309,
+        "longitude": 139.7537719
+    },
+    {
+        "location": "リニア",
+        "realLocation": "中央新幹線/新宿駅(ヤマブキえき)/新大阪駅(コガネえき)",
+        "address": "Shin-Ōsaka Station, 5-chōme-16 Nishinakajima, Yodogawa-ku, Osaka, 532-0011, Japan",
+        "latitude": 34.7334658,
+        "longitude": 135.5002547
+    },
+    {
+        "location": "セキチクシティ",
+        "realLocation": "内房南部（千葉県富津市 館山市付近）",
+        "address": "Kyonan-machi, Chiba, Japan",
+        "latitude": 35.132077,
+        "longitude": 139.837683
+    },
+    {
+        "location": "サファリゾーン",
+        "realLocation": "マザー牧場",
+        "address": "940-3 Tagura, Futtsu, Chiba 299-1731, Japan",
+        "latitude": 35.2480171,
+        "longitude": 139.9406717
+    },
+    {
+        "location": "16ばんどうろ",
+        "realLocation": "鎌倉市  平塚市付近",
+        "address": "Kamakura, Kanagawa, Japan",
+        "latitude": 35.3192128,
+        "longitude": 139.5466731
+    },
+    {
+        "location": "サイクリングロード",
+        "realLocation": "東京湾アクアライン (国道409号)、圏央道",
+        "address": "Japan, 〒292-0071 Chiba, Kisarazu, Nakajima, 東京湾アクアライン",
+        "latitude": 35.4621765,
+        "longitude": 139.876899
+    },
+    {
+        "location": "ふたごじま",
+        "realLocation": "江ノ島",
+        "address": "Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
+        "latitude": 35.2990992,
+        "longitude": 139.4809269
+    },
+    {
+        "location": "19ばんすいどう〜21ばんすいどう",
+        "realLocation": "相模灘",
+        "address": "Sagami-nada Sea, Japan",
+        "latitude": 35.1499996,
+        "longitude": 139.5971818
+    },
+    {
+        "location": "グレンじま",
+        "realLocation": "伊豆大島",
+        "address": "Ōshima Island, Oshima, Tokyo, Japan",
+        "latitude": 34.7408836,
+        "longitude": 139.3856256
+    },
+    {
+        "location": "22ばんどうろ",
+        "realLocation": "富士箱根伊豆国立公園",
+        "address": "Fuji Hakone Izu National Park, Sengokuhara, Hakone, Ashigarashimo District, Kanagawa 250-0631, Japan",
+        "latitude": 35.23228599999999,
+        "longitude": 139.0224262
+    },
+    {
+        "location": "セキエイこうげん",
+        "realLocation": "埼玉県北西部～群馬県安中市あたり (秩父多摩甲斐国立公園)",
+        "address": "Chichibu-Tama-Kai National Park, Koshu, Yamanashi 404-0021, Japan",
+        "latitude": 35.8531218,
+        "longitude": 138.8620305
+    },
+    {
+        "location": "28ばんどうろ",
+        "realLocation": "山梨県",
+        "address": "Yamanashi, Japan",
+        "latitude": 35.6635113,
+        "longitude": 138.6388879
+    },
+    {
+        "location": "26ばんどうろ",
+        "realLocation": "富士市 静岡市",
+        "address": "Fuji, Shizuoka, Japan",
+        "latitude": 35.161484,
+        "longitude": 138.67622
+    },
+    {
+        "location": "27ばんどうろ",
+        "realLocation": "駿河湾",
+        "address": "Suruga Bay, Japan",
+        "latitude": 34.8672418,
+        "longitude": 138.4787258
+    },
+    {
+        "location": "1のしま",
+        "realLocation": "新島、神津島、式根島、利島",
+        "address": "Shikine-jima, Shikinejima, Niijima, Tokyo 100-0511, Japan",
+        "latitude": 34.3257648,
+        "longitude": 139.2106794
+    },
+    {
+        "location": "ほてりのみち",
+        "realLocation": "新島",
+        "address": "Nii-jima, Niijima, Tokyo, Japan",
+        "latitude": 34.3746494,
+        "longitude": 139.268936
+    },
+    {
+        "location": "たからのはま",
+        "realLocation": "神津島",
+        "address": "Kozushima, Tokyo 100-0601, Japan",
+        "latitude": 34.2055236,
+        "longitude": 139.1344994
+    },
+    {
+        "location": "ともしびやま",
+        "realLocation": "利島宮塚山",
+        "address": "Mt. Miyatsuka, Toshima, Tokyo 100-0301, Japan",
+        "latitude": 34.5204378,
+        "longitude": 139.2794522
+    },
+    {
+        "location": "2のしま",
+        "realLocation": "三宅島、御蔵島",
+        "address": "Mikura-jima, Mikurajima, Tokyo 100-1301, Japan",
+        "latitude": 33.8750529,
+        "longitude": 139.6044141
+    },
+    {
+        "location": "3のしま",
+        "realLocation": "八丈島、八丈小島",
+        "address": "Hachijō-kojima, Hachijo, Tokyo 100-1400, Japan",
+        "latitude": 33.126815,
+        "longitude": 139.6885849
+    },
+    {
+        "location": "きのみのもり",
+        "realLocation": "八丈小島",
+        "address": "Hachijō-kojima, Hachijo, Tokyo 100-1400, Japan",
+        "latitude": 33.126815,
+        "longitude": 139.6885849
+    },
+    {
+        "location": "3のしま みなと",
+        "realLocation": "底土港",
+        "address": "東京 都 八丈 町 三根 ４１７９, 三根 八丈町 東京都 100-1511, Japan",
+        "latitude": 33.1220147,
+        "longitude": 139.8171109
+    },
+    {
+        "location": "4のしま",
+        "realLocation": "青ヶ島",
+        "address": "Aogashima, Tokyo 100-1701, Japan",
+        "latitude": 32.4665329,
+        "longitude": 139.7636109
+    },
+    {
+        "location": "いてだきのどうくつ",
+        "realLocation": "青ヶ島 丸山",
+        "address": "Maruyama, Aogashima, Tokyo 100-1701, Japan",
+        "latitude": 32.4528912,
+        "longitude": 139.7682416
+    },
+    {
+        "location": "5のしま",
+        "realLocation": "聟島列島",
+        "address": "Muko Island, Azamukojimahonto Mukojima, Ogasawara, Tokyo 100-2100, Japan",
+        "latitude": 27.6827633,
+        "longitude": 142.1408105
+    },
+    {
+        "location": "みずのめいろ",
+        "realLocation": "西之島",
+        "address": "Nishinoshima Island, Nishinoshima, Ogasawara, Tokyo 100-2100, Japan",
+        "latitude": 27.2471188,
+        "longitude": 140.8778523
+    },
+    {
+        "location": "ゴージャスリゾート",
+        "realLocation": "中ノ島",
+        "address": "Ogasawara, Tokyo 100-2100, Japan",
+        "latitude": 27.717085,
+        "longitude": 142.108158
+    },
+    {
+        "location": "かえらずのあな",
+        "realLocation": "笹魚島",
+        "address": "Ogasawara, Tokyo 100-2100, Japan",
+        "latitude": 27.718092,
+        "longitude": 142.111926
+    },
+    {
+        "location": "おもいでのとう",
+        "realLocation": "媒島",
+        "address": "Nakodojima Island, Nakodojima Mukojima, Ogasawara, Tokyo 100-2100, Japan",
+        "latitude": 27.6288532,
+        "longitude": 142.1792857
+    },
+    {
+        "location": "6のしま",
+        "realLocation": "父島列島",
+        "address": "Chichi-jima, Chichijima, Ogasawara, Tokyo 100-2101, Japan",
+        "latitude": 27.074353,
+        "longitude": 142.2177824
+    },
+    {
+        "location": "てんのあな",
+        "realLocation": "父島",
+        "address": "Chichi-jima, Chichijima, Ogasawara, Tokyo 100-2101, Japan",
+        "latitude": 27.074353,
+        "longitude": 142.2177824
+    },
+    {
+        "location": "みどりのさんぽみち",
+        "realLocation": "兄島",
+        "address": "Anijima Island, Anijima Chichijima, Ogasawara, Tokyo 100-2101, Japan",
+        "latitude": 27.1244466,
+        "longitude": 142.2098158
+    },
+    {
+        "location": "はずれのしま",
+        "realLocation": "弟島",
+        "address": "Ototojima Island, Ototojima Chichijima, Ogasawara, Tokyo 100-2101, Japan",
+        "latitude": 27.1678359,
+        "longitude": 142.1885761
+    },
+    {
+        "location": "7のしま",
+        "realLocation": "母島",
+        "address": "Hahajima Retto, Hahajima, Ogasawara, Tokyo 100-2211, Japan",
+        "latitude": 26.6734996,
+        "longitude": 142.1540754
+    },
+    {
+        "location": "アスカナいせき",
+        "realLocation": "母島列島",
+        "address": "Hahajima Island, Koshinzuka Hahajima, Ogasawara, Tokyo 100-2211, Japan",
+        "latitude": 26.6825745,
+        "longitude": 142.1446287
+    },
+    {
+        "location": "へそのいわ",
+        "realLocation": "鳥島",
+        "address": "Tori-shima, Aogashima, Tokyo 100-1701, Japan",
+        "latitude": 30.4850345,
+        "longitude": 140.3017515
+    },
+    {
+        "location": "たんじょうのしま",
+        "realLocation": "南鳥島",
+        "address": "Minami-Tori-shima, Minamitorishima, Ogasawara, Tokyo 100-2100, Japan",
+        "latitude": 24.2867829,
+        "longitude": 153.9807774
+    },
+    {
+        "location": "シロガネやま",
+        "realLocation": "富士山",
+        "address": "Mount Fuji, Kitayama, Fujinomiya, Shizuoka 418-0112, Japan",
+        "latitude": 35.3606255,
+        "longitude": 138.7273634
+    },
+    {
+        "location": "ワカバタウン",
+        "realLocation": "静岡県浜松市",
+        "address": "Hamamatsu, Shizuoka, Japan",
+        "latitude": 34.7102752,
+        "longitude": 137.7274159
+    },
+    {
+        "location": "29ばんどうろ",
+        "realLocation": "岡崎平野",
+        "address": "Chubu Centrair International Airport (NGO), 1-chōme-1 Centrair, Tokoname, Aichi 479-0881, Japan",
+        "latitude": 34.8585531,
+        "longitude": 136.8114851
+    },
+    {
+        "location": "ヨシノシティ",
+        "realLocation": "愛知県名古屋市",
+        "address": "Nagoya, Aichi, Japan",
+        "latitude": 35.18145060000001,
+        "longitude": 136.9065571
+    },
+    {
+        "location": "31ばんどうろ",
+        "realLocation": "濃尾平野",
+        "address": "Japan, 〒492-8074 愛知県稲沢市下津下町東２丁目 Planície de Nōbi",
+        "latitude": 35.249668,
+        "longitude": 136.8340497
+    },
+    {
+        "location": "キキョウシティ",
+        "realLocation": "奈良県奈良市",
+        "address": "Nara, Japan",
+        "latitude": 34.685109,
+        "longitude": 135.8048019
+    },
+    {
+        "location": "マダツボミのとう",
+        "realLocation": "興福寺か法隆寺",
+        "address": "1-1-1 Hōryūji Sannai, Ikaruga, Ikoma-gun, Nara 636-0115, Japan",
+        "latitude": 34.6140766,
+        "longitude": 135.7356826
+    },
+    {
+        "location": "アルフのいせき",
+        "realLocation": "奈良県明日香村",
+        "address": "Asuka, Takaichi District, Nara, Japan",
+        "latitude": 34.4713594,
+        "longitude": 135.8206452
+    },
+    {
+        "location": "32ばんどうろ",
+        "realLocation": "三重県名張市 伊勢志摩",
+        "address": "3225-10 Hirao, Nabari, Mie 518-0713, Japan",
+        "latitude": 34.621198,
+        "longitude": 136.09517
+    },
+    {
+        "location": "つながりのどうくつ",
+        "realLocation": "三重県青の洞窟",
+        "address": "Hobocho, Kumano, 三重県 519-4202, Japan",
+        "latitude": 33.9127712,
+        "longitude": 136.1716237
+    },
+    {
+        "location": "33ばんどうろ",
+        "realLocation": "和歌山県熊野市付近",
+        "address": "Shingu, Wakayama, Japan",
+        "latitude": 33.7241203,
+        "longitude": 135.9924819
+    },
+    {
+        "location": "ヒワダタウン",
+        "realLocation": "和歌山県みなべ町",
+        "address": "Minabe, Hidaka District, Wakayama, Japan",
+        "latitude": 33.7723658,
+        "longitude": 135.3215997
+    },
+    {
+        "location": "ヤドンのいど",
+        "realLocation": "熊野本宮大社",
+        "address": "1110 Hongūchō Hongū, Tanabe, Wakayama 647-1731, Japan",
+        "latitude": 33.8405706,
+        "longitude": 135.7734753
+    },
+    {
+        "location": "ウバメのもり",
+        "realLocation": "熊野古道あたり",
+        "address": "Kii Peninsula, Hongucho Shizukawa, Tanabe, Wakayama 647-1714, Japan",
+        "latitude": 33.7700279,
+        "longitude": 135.683906
+    },
+    {
+        "location": "34ばんどうろ",
+        "realLocation": "和歌山県有田市  和歌山市付近",
+        "address": "Arida, Wakayama, Japan",
+        "latitude": 34.0830306,
+        "longitude": 135.1276824
+    },
+    {
+        "location": "コガネシティ",
+        "realLocation": "大阪府大阪市",
+        "address": "Osaka, Japan",
+        "latitude": 34.6937249,
+        "longitude": 135.5022535
+    },
+    {
+        "location": "ラジオとう",
+        "realLocation": "通天閣",
+        "address": "1-chōme-18-6 Ebisuhigashi, Naniwa-ku, Osaka, 556-0002, Japan",
+        "latitude": 34.6524992,
+        "longitude": 135.5063058
+    },
+    {
+        "location": "35ばんどうろ",
+        "realLocation": "服部緑地",
+        "address": "parc Hattori Ryokuchi, 1-1 Hattoriryokuchi, Toyonaka, Osaka 561-0873, Japan",
+        "latitude": 34.7767282,
+        "longitude": 135.4868705
+    },
+    {
+        "location": "しぜんこうえん",
+        "realLocation": "明治の森箕面国定公園か万博記念公園",
+        "address": "Minoh Park, 1-18 Minookōen, Minoo, Osaka 562-0002, Japan",
+        "latitude": 34.8470676,
+        "longitude": 135.4723453
+    },
+    {
+        "location": "ポケスロンドーム",
+        "realLocation": "ユニバーサル・スタジオ・ジャパンか大阪ドーム",
+        "address": "2-chōme-1-33 Sakurajima, Konohana-ku, Osaka, 554-0031, Japan",
+        "latitude": 34.665442,
+        "longitude": 135.4323382
+    },
+    {
+        "location": "36ばんどうろ",
+        "realLocation": "京都府木津川市または京田辺市付近",
+        "address": "Kyotanabe, Kyoto, Japan",
+        "latitude": 34.8144429,
+        "longitude": 135.7676507
+    },
+    {
+        "location": "37ばんどうろ",
+        "realLocation": "大阪府枚方市 京都府伏見区",
+        "address": "Hirakata, Osaka, Japan",
+        "latitude": 34.8147385,
+        "longitude": 135.6511362
+    },
+    {
+        "location": "エンジュシティ",
+        "realLocation": "京都府京都市",
+        "address": "Kyoto, Japan",
+        "latitude": 35.011564,
+        "longitude": 135.7681489
+    },
+    {
+        "location": "やけたとう",
+        "realLocation": "西寺",
+        "address": "45-1 Karahashi Hiragakichō, Minami-ku, Kyoto, 601-8469, Japan",
+        "latitude": 34.981941,
+        "longitude": 135.735955
+    },
+    {
+        "location": "スズのとう",
+        "realLocation": "東寺＋鹿苑寺",
+        "address": "1 Kinkakujichō, Kita-ku, Kyoto, 603-8361, Japan",
+        "latitude": 35.03937,
+        "longitude": 135.7292431
+    },
+    {
+        "location": "アサギシティ",
+        "realLocation": "兵庫県神戸市",
+        "address": "Kobe, Hyogo, Japan",
+        "latitude": 34.6900806,
+        "longitude": 135.1956311
+    },
+    {
+        "location": "38ばんどうろ〜39ばんどうろ",
+        "realLocation": "六甲山",
+        "address": "Mount Rokkō, Arimacho, Kita Ward, Kobe, Hyogo 651-1401, Japan",
+        "latitude": 34.7780226,
+        "longitude": 135.2637238
+    },
+    {
+        "location": "アサギのとうだい",
+        "realLocation": "神戸ポートタワー、和田岬灯台",
+        "address": "1 Chome-1 Sumauradori, Suma Ward, Kobe, Hyogo 654-0055, Japan",
+        "latitude": 34.6432022,
+        "longitude": 135.1223138
+    },
+    {
+        "location": "40ばんすいどう",
+        "realLocation": "明石海峡",
+        "address": "Japan, 明石海峡",
+        "latitude": 34.6392759,
+        "longitude": 134.9853211
+    },
+    {
+        "location": "うずまきじま",
+        "realLocation": "淡路島",
+        "address": "Awaji Island, Hyogo, Japan",
+        "latitude": 34.3257122,
+        "longitude": 134.813111
+    },
+    {
+        "location": "41ばんすいどう",
+        "realLocation": "鳴門海峡",
+        "address": "Naruto Strait, Japan",
+        "latitude": 34.2418331,
+        "longitude": 134.6499611
+    },
+    {
+        "location": "タンバシティ",
+        "realLocation": "徳島県鳴門市＋徳島市",
+        "address": "Higashiyamada-55-2 Ōasachōhinoki, Naruto, Tokushima 779-0225, Japan",
+        "latitude": 34.1647751,
+        "longitude": 134.4990482
+    },
+    {
+        "location": "42ばんどうろ",
+        "realLocation": "滋賀県大津市から草津市",
+        "address": "Otsu, Shiga, Japan",
+        "latitude": 35.0178371,
+        "longitude": 135.8552084
+    },
+    {
+        "location": "スリバチやま",
+        "realLocation": "比叡山",
+        "address": "Mount Hiei, Ichijoji Idegadanichosenguchi, Sakyo Ward, Kyoto, 606-0000, Japan",
+        "latitude": 35.0622477,
+        "longitude": 135.8315317
+    },
+    {
+        "location": "44ばんどうろ",
+        "realLocation": "滋賀県彦根市 東近江市+鈴鹿山脈付近",
+        "address": "Góry Suzuka, Kimigahatacho, Higashiomi, Shiga 527-0202, Japan",
+        "latitude": 35.1792328,
+        "longitude": 136.4143377
+    },
+    {
+        "location": "チョウジタウン",
+        "realLocation": "滋賀県甲賀市",
+        "address": "Koka, Shiga, Japan",
+        "latitude": 34.966081,
+        "longitude": 136.166348
+    },
+    {
+        "location": "43ばんどうろ",
+        "realLocation": "滋賀県近江八幡市",
+        "address": "Omihachiman, Shiga, Japan",
+        "latitude": 35.1283594,
+        "longitude": 136.0979635
+    },
+    {
+        "location": "いかりのみずうみ",
+        "realLocation": "琵琶湖",
+        "address": "Lake Biwa, Shiga, Japan",
+        "latitude": 35.3456394,
+        "longitude": 136.1709012
+    },
+    {
+        "location": "こおりのぬけみち",
+        "realLocation": "飛騨山脈",
+        "address": "Okuhida Onsengo Murakami, Takayama, Gifu 506-1431, Japan",
+        "latitude": 36.2460889,
+        "longitude": 137.5141428
+    },
+    {
+        "location": "フスベシティ",
+        "realLocation": "岐阜県白川郷",
+        "address": "Shirakawa-go, Ogimachi, Shirakawa, Ōno-gun, Gifu 501-5600, Japan",
+        "latitude": 36.2578421,
+        "longitude": 136.9062643
+    },
+    {
+        "location": "りゅうのあな",
+        "realLocation": "伊吹山",
+        "address": "Mount Ibuki, Ueno, Maibara, Shiga 521-0312, Japan",
+        "latitude": 35.4179018,
+        "longitude": 136.4065165
+    },
+    {
+        "location": "45ばんどうろ",
+        "realLocation": "天竜川 流域 水窪ダム付近",
+        "address": "Misakubocho Jitogata, Tenryū Ward, Hamamatsu, Shizuoka 431-4102, Japan",
+        "latitude": 35.1846815,
+        "longitude": 137.931544
+    },
+    {
+        "location": "くらやみのほらあな",
+        "realLocation": "赤石山脈",
+        "address": "Akaishi Mountains, Ashiyasuashikura, Minami, Yamanashi 400-0241, Japan",
+        "latitude": 35.6710987,
+        "longitude": 138.2420361
+    },
+    {
+        "location": "がけっぷちゲート",
+        "realLocation": "徳島県那賀町",
+        "address": "Naka, Naka District, Tokushima, Japan",
+        "latitude": 33.8574529,
+        "longitude": 134.4966709
+    },
+    {
+        "location": "47ばんどうろから48ばんどうろ",
+        "realLocation": "徳島県三好市",
+        "address": "Miyoshi, Tokushima, Japan",
+        "latitude": 34.0260234,
+        "longitude": 133.8072458
+    },
+    {
+        "location": "うずもれのとう",
+        "realLocation": "徳島県三好市",
+        "address": "Miyoshi, Tokushima, Japan",
+        "latitude": 34.0260234,
+        "longitude": 133.8072458
+    },
+    {
+        "location": "サファリゾーン",
+        "realLocation": "香川県丸亀市",
+        "address": "Marugame, Kagawa, Japan",
+        "latitude": 34.2893547,
+        "longitude": 133.797643
+    },
+    {
+        "location": "フロンティアフロント",
+        "realLocation": "兵庫県姫路市",
+        "address": "Himeji, Hyogo, Japan",
+        "latitude": 34.8154176,
+        "longitude": 134.6855509
+    },
+    {
+        "location": "バトルフロンティア",
+        "realLocation": "兵庫県姫路市姫路セントラルパーク",
+        "address": "Kodani-1434 Toyotomichō, Himeji, Hyogo 679-2121, Japan",
+        "latitude": 34.871029,
+        "longitude": 134.764362
+    },
+    {
+        "location": "シント遺跡",
+        "realLocation": "立山",
+        "address": "Tateyama, Nakaniikawa District, Toyama, Japan",
+        "latitude": 36.66346619999999,
+        "longitude": 137.3137323
+    },
+    {
+        "location": "ミシロタウン",
+        "realLocation": "佐賀県伊万里市か長崎県佐世保市",
+        "address": "Japan, 〒859-6305 Nagasaki, Sasebo, 吉井町直谷１２６０",
+        "latitude": 33.2788941,
+        "longitude": 129.6906562
+    },
+    {
+        "location": "101ばんどうろ",
+        "realLocation": "佐世保線",
+        "address": "Sasebo, Nagasaki, Japan",
+        "latitude": 33.1804356,
+        "longitude": 129.7157996
+    },
+    {
+        "location": "コトキタウン",
+        "realLocation": "佐賀県佐賀市",
+        "address": "Saga, Japan",
+        "latitude": 33.2631179,
+        "longitude": 130.3009057
+    },
+    {
+        "location": "102ばんどうろ",
+        "realLocation": "唐津線",
+        "address": "Karatsu, Saga, Japan",
+        "latitude": 33.4500971,
+        "longitude": 129.9682676
+    },
+    {
+        "location": "103ばんどうろ",
+        "realLocation": "雲仙市 (有明海付近)",
+        "address": "Unzen, Nagasaki, Japan",
+        "latitude": 32.8352046,
+        "longitude": 130.1874427
+    },
+    {
+        "location": "みかいのもり",
+        "realLocation": "吉野ヶ里遺跡",
+        "address": "Yoshinogari Historical Park, 1843 Tade, 吉野ヶ里町 神埼郡 Saga 842-0035, Japan",
+        "latitude": 33.3243164,
+        "longitude": 130.384151
+    },
+    {
+        "location": "トウカシティ",
+        "realLocation": "佐賀県唐津市",
+        "address": "Karatsu, Saga, Japan",
+        "latitude": 33.4500971,
+        "longitude": 129.9682676
+    },
+    {
+        "location": "104ばんどうろ",
+        "realLocation": "東松浦半島",
+        "address": "Higashimatsuura Peninsula, Daira, Karatsu, Saga 847-0803, Japan",
+        "latitude": 33.47048,
+        "longitude": 129.9079202
+    },
+    {
+        "location": "トウカのもり",
+        "realLocation": "古窯の森公園",
+        "address": "Kitahata Koyohnomori Park, 3372-104 Kitahatahieda, Karatsu, Saga 847-1214, Japan",
+        "latitude": 33.3609766,
+        "longitude": 129.9555631
+    },
+    {
+        "location": "カナズミシティ",
+        "realLocation": "福岡県福岡市から北九州市",
+        "address": "Fukuoka, Japan",
+        "latitude": 33.5901838,
+        "longitude": 130.4016888
+    },
+    {
+        "location": "116ばんどうろ",
+        "realLocation": "太宰府市 久留米市",
+        "address": "Dazaifu, Fukuoka, Japan",
+        "latitude": 33.51277340000001,
+        "longitude": 130.5239685
+    },
+    {
+        "location": "カナシダトンネル",
+        "realLocation": "耳納山地 筑肥山地",
+        "address": "Chikuhisanchi, Tachibanamachi Kamihebaru, Yame, Fukuoka 834-0083, Japan",
+        "latitude": 33.1269526,
+        "longitude": 130.6609422
+    },
+    {
+        "location": "105ばんすいどう〜106ばんすいどう",
+        "realLocation": "長崎県伊万里湾 五島列島?",
+        "address": "Fukue Island, Goto, Nagasaki, Japan",
+        "latitude": 32.7018615,
+        "longitude": 128.7577605
+    },
+    {
+        "location": "107ばんすいどう〜109ばんすいどう",
+        "realLocation": "角力灘",
+        "address": "Goto-nada Sea, Japan",
+        "latitude": 32.8522651,
+        "longitude": 129.6824642
+    },
+    {
+        "location": "ムロタウン",
+        "realLocation": "長崎県対馬",
+        "address": "Tsushima, Nagasaki, Japan",
+        "latitude": 34.2027806,
+        "longitude": 129.2875205
+    },
+    {
+        "location": "こじまのよこあな",
+        "realLocation": "壱岐古墳群",
+        "address": "936 Katsumotochō Yurihatafure, Iki, Nagasaki 811-5552, Japan",
+        "latitude": 33.8031302,
+        "longitude": 129.7035977
+    },
+    {
+        "location": "すてられぶね（シーキンセツ）",
+        "realLocation": "長崎県端島",
+        "address": "Hashima Island, Takashimamachi, Nagasaki, 851-1315, Japan",
+        "latitude": 32.6276331,
+        "longitude": 129.7385256
+    },
+    {
+        "location": "カイナシティ",
+        "realLocation": "長崎県長崎市",
+        "address": "Nagasaki, Japan",
+        "latitude": 32.7503334,
+        "longitude": 129.8778888
+    },
+    {
+        "location": "110ばんどうろ",
+        "realLocation": "熊本フェリー航路/島原鉄道線",
+        "address": "7-5 Shimokawashirimachi, Shimabara, Nagasaki 855-0861, Japan",
+        "latitude": 32.7671053,
+        "longitude": 130.3729826
+    },
+    {
+        "location": "ニューキンセツ",
+        "realLocation": "熊本県熊本港",
+        "address": "Kumamotominato Ferry Terminal, 1-chōme Shinminato, Nishi-ku, Kumamoto, 861-5274, Japan",
+        "latitude": 32.7635679,
+        "longitude": 130.590034
+    },
+    {
+        "location": "おぼろのどうくつ",
+        "realLocation": "天草諸島",
+        "address": "Amakusa Islands, Japan",
+        "latitude": 32.4095859,
+        "longitude": 130.1043057
+    },
+    {
+        "location": "117ばんどうろ",
+        "realLocation": "合志市",
+        "address": "Koshi, Kumamoto, Japan",
+        "latitude": 32.8860179,
+        "longitude": 130.7897473
+    },
+    {
+        "location": "シダケタウン",
+        "realLocation": "熊本県菊池市",
+        "address": "Kikuchi, Kumamoto, Japan",
+        "latitude": 32.9789312,
+        "longitude": 130.8129958
+    },
+    {
+        "location": "111ばんどうろ〜さばく",
+        "realLocation": "豊後大野市 南阿蘇村+南阿蘇村外牧",
+        "address": "Hokamaki, Ozu, Kikuchi District, Kumamoto 869-1215, Japan",
+        "latitude": 32.871394,
+        "longitude": 130.9511151
+    },
+    {
+        "location": "さばくいせき",
+        "realLocation": "長目塚古墳",
+        "address": "1198 Ichinomiyamachi Nakadōri, Aso, Kumamoto 869-2613, Japan",
+        "latitude": 32.9673598,
+        "longitude": 131.1064966
+    },
+    {
+        "location": "げんえいのとう",
+        "realLocation": "阿蘇大御神御足跡石",
+        "address": "Shirakawa, Minamiaso, Aso District, Kumamoto 869-1502, Japan",
+        "latitude": 32.8294382,
+        "longitude": 131.0914602
+    },
+    {
+        "location": "いびつなあな",
+        "realLocation": "九重山",
+        "address": "Kujurenzan, Kujumachi Oaza Ariuji, Taketa, Oita 878-0202, Japan",
+        "latitude": 33.1082158,
+        "longitude": 131.2913574
+    },
+    {
+        "location": "112ばんどうろ",
+        "realLocation": "南阿蘇村河陽",
+        "address": "Kawayo, Minamiaso, Aso District, Kumamoto 869-1404, Japan",
+        "latitude": 32.8668305,
+        "longitude": 131.0041042
+    },
+    {
+        "location": "デコボコさんどう〜ほのおのぬけみち",
+        "realLocation": "熊本県道111号阿蘇吉田線",
+        "address": "Japan, Kumamoto, 県道111号",
+        "latitude": 32.8851864,
+        "longitude": 131.0624124
+    },
+    {
+        "location": "えんとつやま",
+        "realLocation": "阿蘇山",
+        "address": "Mount Aso, Takawara, Aso, Kumamoto 869-2223, Japan",
+        "latitude": 32.8985064,
+        "longitude": 131.0874754
+    },
+    {
+        "location": "フエンタウン",
+        "realLocation": "熊本県阿蘇町、大分県竹田市",
+        "address": "Aso, Kumamoto, Japan",
+        "latitude": 32.9521207,
+        "longitude": 131.1211959
+    },
+    {
+        "location": "りゅうせいのたき",
+        "realLocation": "羽門の滝または竜門の滝",
+        "address": "Matsugi, Kokonoe, Kusu District, Oita 879-4632, Japan",
+        "latitude": 33.2760891,
+        "longitude": 131.2073342
+    },
+    {
+        "location": "114ばんどうろ",
+        "realLocation": "大分県別府市付近",
+        "address": "Beppu, Oita, Japan",
+        "latitude": 33.2844614,
+        "longitude": 131.4907093
+    },
+    {
+        "location": "ハジツゲタウン",
+        "realLocation": "大分県大分市",
+        "address": "Oita, Japan",
+        "latitude": 33.2396084,
+        "longitude": 131.6095148
+    },
+    {
+        "location": "119ばんどうろ",
+        "realLocation": "高千穂峡",
+        "address": "Mukoyama, Takachiho, Nishiusuki District, Miyazaki 882-1103, Japan",
+        "latitude": 32.7014966,
+        "longitude": 131.3010309
+    },
+    {
+        "location": "ヒワマキシティ",
+        "realLocation": "宮崎県日向市",
+        "address": "Hyuga, Miyazaki, Japan",
+        "latitude": 32.4225894,
+        "longitude": 131.624414
+    },
+    {
+        "location": "サファリゾーン",
+        "realLocation": "宮崎市フェニックス自然動物園",
+        "address": "Japan, 〒880-0122 Miyazaki, 塩路浜山３０８３−４２",
+        "latitude": 31.9828929,
+        "longitude": 131.4761039
+    },
+    {
+        "location": "ひでりのいわと",
+        "realLocation": "天岩戸神社",
+        "address": "1073番地１ Iwato, Takachiho, Nishiusuki-gun, Miyazaki 882-1621, Japan",
+        "latitude": 32.7342763,
+        "longitude": 131.3501006
+    },
+    {
+        "location": "こだいづか",
+        "realLocation": "高屋山上陵",
+        "address": "Japan, 〒899-6404 鹿児島県霧島市溝辺町麓菅口",
+        "latitude": 31.8251668,
+        "longitude": 130.6921772
+    },
+    {
+        "location": "120ばんどうろ",
+        "realLocation": "霧島",
+        "address": "Kirishima, Kagoshima, Japan",
+        "latitude": 31.7407317,
+        "longitude": 130.7633282
+    },
+    {
+        "location": "121ばんどうろ",
+        "realLocation": "鹿児島県霧島市 垂水市",
+        "address": "Tarumizu, Kagoshima, Japan",
+        "latitude": 31.4927791,
+        "longitude": 130.7010327
+    },
+    {
+        "location": "122ばんすいどう",
+        "realLocation": "錦江湾",
+        "address": "Kagoshima Bay, Japan",
+        "latitude": 31.3801286,
+        "longitude": 130.6558294
+    },
+    {
+        "location": "おくりびやま",
+        "realLocation": "桜島",
+        "address": "Sakurajima, Sakurajimaakamizucho, Kagoshima, 891-1420, Japan",
+        "latitude": 31.583333,
+        "longitude": 130.65
+    },
+    {
+        "location": "ミナモシティ",
+        "realLocation": "鹿児島県鹿屋市",
+        "address": "Kanoya, Kagoshima, Japan",
+        "latitude": 31.3782477,
+        "longitude": 130.8522618
+    },
+    {
+        "location": "118ばんどうろ",
+        "realLocation": "熊本県宇土市 八代市",
+        "address": "Uto, Kumamoto, Japan",
+        "latitude": 32.6873631,
+        "longitude": 130.6589603
+    },
+    {
+        "location": "123ばんどうろ",
+        "realLocation": "鹿児島県出水市  南さつま市付近",
+        "address": "Minamisatsuma, Kagoshima, Japan",
+        "latitude": 31.4167019,
+        "longitude": 130.3233185
+    },
+    {
+        "location": "あさせのほらあな",
+        "realLocation": "馬毛島",
+        "address": "Mageshima, Nishinoomote, Kagoshima 891-3118, Japan",
+        "latitude": 30.738748,
+        "longitude": 130.852576
+    },
+    {
+        "location": "124ばんすいどう〜125ばんすいどう/みちのどうくつ",
+        "realLocation": "鹿児島県吐噶喇列島 奄美大島",
+        "address": "Amami Ōshima, Kagoshima, Japan",
+        "latitude": 28.2678467,
+        "longitude": 129.3621196
+    },
+    {
+        "location": "トクサネシティ",
+        "realLocation": "鹿児島県種子島",
+        "address": "Tanegashima, Kagoshima, Japan",
+        "latitude": 30.609558,
+        "longitude": 130.9788775
+    },
+    {
+        "location": "トクサネうちゅうセンター",
+        "realLocation": "種子島宇宙センター",
+        "address": "9999-7 Kukinaga, Minamitane, Kumage-gun, Kagoshima 891-3703, Japan",
+        "latitude": 30.374865,
+        "longitude": 130.9576461
+    },
+    {
+        "location": "ルネシティ",
+        "realLocation": "鹿児島県屋久島",
+        "address": "Yakushima Island, Yakushima, Kumage District, Kagoshima, Japan",
+        "latitude": 30.3445936,
+        "longitude": 130.5127142
+    },
+    {
+        "location": "そらのはしら",
+        "realLocation": "口永良部島",
+        "address": "Kuchinoerabu Island, Kuchinoerabujima, Yakushima, Kumage District, Kagoshima 891-4208, Japan",
+        "latitude": 30.4447113,
+        "longitude": 130.2168991
+    },
+    {
+        "location": "127ばんすいどう/128ばんすいどう/かいていどうくつ",
+        "realLocation": "伊平屋島+具志川島+伊江島+伊是名島(かいていどうくつ)/慶良間諸島",
+        "address": "Gushikawa Island, Shomi, Izena, Shimajiri District, Okinawa 905-0602, Japan",
+        "latitude": 26.975864,
+        "longitude": 127.9499853
+    },
+    {
+        "location": "チャンピオンロード",
+        "realLocation": "山原",
+        "address": "Yanbaru, Okinawa, Japan",
+        "latitude": 26.6989596,
+        "longitude": 128.1625976
+    },
+    {
+        "location": "サイユウシティ",
+        "realLocation": "沖縄県那覇市",
+        "address": "Naha, Okinawa, Japan",
+        "latitude": 26.2125758,
+        "longitude": 127.6790208
+    },
+    {
+        "location": "ポケモンリーグ",
+        "realLocation": "首里城",
+        "address": "1 Chome-2 Shurikinjocho, Naha, Okinawa 903-0815, Japan",
+        "latitude": 26.2170135,
+        "longitude": 127.7195208
+    },
+    {
+        "location": "129ばんすいどう/ゆみなりのしま",
+        "realLocation": "渡名喜島+粟国島",
+        "address": "Tonaki Island, Tonaki, Shimajiri District, Okinawa 901-3601, Japan",
+        "latitude": 26.362571,
+        "longitude": 127.1446201
+    },
+    {
+        "location": "まぼろしじま",
+        "realLocation": "八重干瀬",
+        "address": "Maezato-274 平良字 Miyakojima, Okinawa 906-0422, Japan",
+        "latitude": 24.9245149,
+        "longitude": 125.2420599
+    },
+    {
+        "location": "キナギタウン",
+        "realLocation": "鹿児島県甑島列島",
+        "address": "Naka-Koshiki Island, Kamikoshikicho Taira, Satsumasendai, Kagoshima 896-1281, Japan",
+        "latitude": 31.80059989999999,
+        "longitude": 129.829615
+    },
+    {
+        "location": "131ばんすいどう〜132ばんすいどう",
+        "realLocation": "宇治群島南部+草垣群島",
+        "address": "Kusagaki Islands, Kasasacho Kataura, Minamisatsuma, Kagoshima 897-1301, Japan",
+        "latitude": 30.8476318,
+        "longitude": 129.4324081
+    },
+    {
+        "location": "132ばんすいどう〜134ばんすいどう",
+        "realLocation": "東シナ海(久米島+大東諸島+先島諸島)",
+        "address": "Japan, Sakishima Islands",
+        "latitude": 24.6052055,
+        "longitude": 124.3664581
+    },
+    {
+        "location": "なもなきへいげん",
+        "realLocation": "下甑島",
+        "address": "Shimokoshiki-jima, Satsumasendai, Kagoshima, Japan",
+        "latitude": 31.7034511,
+        "longitude": 129.7240289
+    },
+    {
+        "location": "バトルタワー/バトルフロンティア",
+        "realLocation": "黒島",
+        "address": "Kuroshima, Taketomi, Yaeyama District, Okinawa 907-1311, Japan",
+        "latitude": 24.2339257,
+        "longitude": 124.0140113
+    },
+    {
+        "location": "おふれのせきしつ",
+        "realLocation": "沖縄県与那国島",
+        "address": "Yonaguni, Yaeyama District, Okinawa 907-1801, Japan",
+        "latitude": 24.4560321,
+        "longitude": 122.9944636
+    },
+    {
+        "location": "みなみのことう",
+        "realLocation": "長崎県五島市男女群島",
+        "address": "Danjo Islands, Japan",
+        "latitude": 32.0239202,
+        "longitude": 128.3851838
+    },
+    {
+        "location": "フタバタウン",
+        "realLocation": "登別市",
+        "address": "Noboribetsu, Hokkaido, Japan",
+        "latitude": 42.4127914,
+        "longitude": 141.1066064
+    },
+    {
+        "location": "201ばんどうろ",
+        "realLocation": "室蘭本線",
+        "address": "Muroran, Hokkaido, Japan",
+        "latitude": 42.3151792,
+        "longitude": 140.9737666
+    },
+    {
+        "location": "シンジこ",
+        "realLocation": "洞爺湖",
+        "address": "Toyako, Abuta District, Hokkaido, Japan",
+        "latitude": 42.55116659999999,
+        "longitude": 140.7641342
+    },
+    {
+        "location": "マサゴタウン",
+        "realLocation": "苫小牧市",
+        "address": "Tomakomai, Hokkaido, Japan",
+        "latitude": 42.63124639999999,
+        "longitude": 141.6031222
+    },
+    {
+        "location": "219ばんどうろ",
+        "realLocation": "苫前西港フェリーターミナル",
+        "address": "Tomamae, Tomamae District, Hokkaido, Japan",
+        "latitude": 44.3061419,
+        "longitude": 141.6532114
+    },
+    {
+        "location": "220ばんすいどう",
+        "realLocation": "苫小牧沖",
+        "address": "4-chōme-4-15 Asahimachi, Tomakomai, Hokkaido 053-0018, Japan",
+        "latitude": 42.633469,
+        "longitude": 141.60643
+    },
+    {
+        "location": "221ばんどうろ",
+        "realLocation": "日高町",
+        "address": "Hidaka, Saru District, Hokkaido, Japan",
+        "latitude": 42.48032569999999,
+        "longitude": 142.0744267
+    },
+    {
+        "location": "パルパーク",
+        "realLocation": "新ひだか町",
+        "address": "Shinhidaka, Hidaka District, Hokkaido, Japan",
+        "latitude": 42.34131989999999,
+        "longitude": 142.3686469
+    },
+    {
+        "location": "202ばんどうろ",
+        "realLocation": "千歳市 付近",
+        "address": "Chitose, Hokkaido, Japan",
+        "latitude": 42.82128669999999,
+        "longitude": 141.6510125
+    },
+    {
+        "location": "コトブキシティ",
+        "realLocation": "札幌市",
+        "address": "Sapporo, Hokkaido, Japan",
+        "latitude": 43.0617713,
+        "longitude": 141.3544507
+    },
+    {
+        "location": "クロガネシティ",
+        "realLocation": "夕張市",
+        "address": "Yubari, Hokkaido, Japan",
+        "latitude": 43.0567681,
+        "longitude": 141.9739433
+    },
+    {
+        "location": "クロガネたんこう",
+        "realLocation": "夕張炭鉱",
+        "address": "7‐1 Takamatsu, Yubari, Hokkaido 068-0401, Japan",
+        "latitude": 43.0684029,
+        "longitude": 141.9891216
+    },
+    {
+        "location": "207ばんどうろ",
+        "realLocation": "夕張岳",
+        "address": "Mount Yūbari, Kanayama, Minamifurano, Sorachi District, Hokkaido 079-2131, Japan",
+        "latitude": 43.0996487,
+        "longitude": 142.2510157
+    },
+    {
+        "location": "204ばんどうろ",
+        "realLocation": "学園都市線",
+        "address": "Sōen Station, Chūō-ku, Sapporo, Hokkaido, Japan",
+        "latitude": 43.07081,
+        "longitude": 141.331871
+    },
+    {
+        "location": "ソノオタウン",
+        "realLocation": "富良野市・当別町・北竜町",
+        "address": "Furano, Hokkaido, Japan",
+        "latitude": 43.3420458,
+        "longitude": 142.3831624
+    },
+    {
+        "location": "たにまのはつでんしょ",
+        "realLocation": "苫前町",
+        "address": "Tomamae, Tomamae District, Hokkaido, Japan",
+        "latitude": 44.3061419,
+        "longitude": 141.6532114
+    },
+    {
+        "location": "205ばんどうろ",
+        "realLocation": "北海道道4号旭川芦別線",
+        "address": "Japan, Hokkaido, 道道4号",
+        "latitude": 43.6228011,
+        "longitude": 142.1976943
+    },
+    {
+        "location": "ハクタイのもり",
+        "realLocation": "神居村",
+        "address": "Kamikawa District, Hokkaido, Japan",
+        "latitude": 43.59294209999999,
+        "longitude": 142.7509802
+    },
+    {
+        "location": "もりのようかん",
+        "realLocation": "神居古潭",
+        "address": "Kamuikotan Kamuicho, Asahikawa, Hokkaido 078-0185, Japan",
+        "latitude": 43.7319898,
+        "longitude": 142.200696
+    },
+    {
+        "location": "ハクタイシティ",
+        "realLocation": "旭川市",
+        "address": "Asahikawa, Hokkaido, Japan",
+        "latitude": 43.7708833,
+        "longitude": 142.3650083
+    },
+    {
+        "location": "サイクリングロード",
+        "realLocation": "富良野線",
+        "address": "Furano, Hokkaido, Japan",
+        "latitude": 43.3420458,
+        "longitude": 142.3831624
+    },
+    {
+        "location": "211ばんどうろ",
+        "realLocation": "石北本線",
+        "address": "Shirataki Station, Shirataki, Engaru, Monbetsu-gun, Hokkaido 099-0111, Japan",
+        "latitude": 43.8848017,
+        "longitude": 143.1815793
+    },
+    {
+        "location": "テンガンざん",
+        "realLocation": "蝦夷山系、位置的に日高山脈か大雪山",
+        "address": "Daisetsuzan Volcanic Group, Nokanan, Higashikawa, Kamikawa District, Hokkaido 071-1471, Japan",
+        "latitude": 43.6850658,
+        "longitude": 142.8063076
+    },
+    {
+        "location": "ヨスガシティ",
+        "realLocation": "帯広市",
+        "address": "Obihiro, Hokkaido, Japan",
+        "latitude": 42.9233354,
+        "longitude": 143.197199
+    },
+    {
+        "location": "208ばんどうろ",
+        "realLocation": "清水町または新得町付近",
+        "address": "Shimizu, Kamikawa District, Hokkaido, Japan",
+        "latitude": 43.0113771,
+        "longitude": 142.884509
+    },
+    {
+        "location": "ポケモンやしき",
+        "realLocation": "真鍋庭園",
+        "address": "Manabe Garden, Higashi 2 Sen-６ Inadachō, Obihiro, Hokkaido 080-0832, Japan",
+        "latitude": 42.88480000000001,
+        "longitude": 143.2045695
+    },
+    {
+        "location": "212ばんどうろ",
+        "realLocation": "十勝川  六花の森",
+        "address": "Rokka Forest, Nishi 3 Sen-249-6 Tokiwa, Nakasatsunai, Kasai-gun, Hokkaido 089-1300, Japan",
+        "latitude": 42.6928077,
+        "longitude": 143.115478
+    },
+    {
+        "location": "209ばんどうろ",
+        "realLocation": "幕別町 本別町",
+        "address": "Hombetsu, Nakagawa District, Hokkaido, Japan",
+        "latitude": 43.12451060000001,
+        "longitude": 143.6106892
+    },
+    {
+        "location": "ロストタワー",
+        "realLocation": "常紋トンネルの近くにある殉職者追悼碑",
+        "address": "Ikutaharayae, Engaru, Monbetsu District, Hokkaido 099-0703, Japan",
+        "latitude": 43.8402046,
+        "longitude": 143.5448311
+    },
+    {
+        "location": "ズイタウン",
+        "realLocation": "足寄町",
+        "address": "Ashoro, Ashoro District, Hokkaido, Japan",
+        "latitude": 43.2449157,
+        "longitude": 143.5540194
+    },
+    {
+        "location": "ズイのいせき〜いせきマニアのあな",
+        "realLocation": "阿寒富士",
+        "address": "Mt. Akan-Fuji, Shoro, Shiranuka, Shiranuka District, Hokkaido 088-0344, Japan",
+        "latitude": 43.3741314,
+        "longitude": 144.0065124
+    },
+    {
+        "location": "トバリシティ",
+        "realLocation": "網走市から斜里町付近",
+        "address": "Abashiri, Hokkaido, Japan",
+        "latitude": 44.0206059,
+        "longitude": 144.2734837
+    },
+    {
+        "location": "215ばんどうろ",
+        "realLocation": "北海道道334号中藻興部興部線+北海道道39号奥尻島線の一部",
+        "address": "Japan, Hokkaido, Monbetsu-gun, 道道334号",
+        "latitude": 44.4059506,
+        "longitude": 143.0622549
+    },
+    {
+        "location": "210ばんどうろ",
+        "realLocation": "サロマ湖 ・能取湖・網走湖畔",
+        "address": "Lake Notoro, Abashiri, Hokkaido, Japan",
+        "latitude": 44.0593087,
+        "longitude": 144.151037
+    },
+    {
+        "location": "カンナギタウン",
+        "realLocation": "遠軽町+湧別町",
+        "address": "Yubetsu, Monbetsu District, Hokkaido, Japan",
+        "latitude": 44.15154829999999,
+        "longitude": 143.5729109
+    },
+    {
+        "location": "214ばんどうろ",
+        "realLocation": "清里町 弟子屈町",
+        "address": "Kiyosato, Shari District, Hokkaido, Japan",
+        "latitude": 43.8352389,
+        "longitude": 144.5945629
+    },
+    {
+        "location": "おくりのいずみ",
+        "realLocation": "摩周湖",
+        "address": "Lake Mashū, Teshikaga, Kawakami District, Hokkaido, Japan",
+        "latitude": 43.5872284,
+        "longitude": 144.5237617
+    },
+    {
+        "location": "もどりのどうくつ",
+        "realLocation": "カムイシュ島",
+        "address": "Kamuishu Island, Kawayu, Teshikaga, Kawakami District, Hokkaido 088-3461, Japan",
+        "latitude": 43.5791393,
+        "longitude": 144.5274522
+    },
+    {
+        "location": "リッシこのほとり",
+        "realLocation": "標茶町",
+        "address": "Shibecha, Kawakami District, Hokkaido, Japan",
+        "latitude": 43.3033203,
+        "longitude": 144.6008458
+    },
+    {
+        "location": "リッシこ",
+        "realLocation": "屈斜路湖または阿寒湖",
+        "address": "Lake Kussharo, Teshikaga, Kawakami District, Hokkaido, Japan",
+        "latitude": 43.603842,
+        "longitude": 144.3254063
+    },
+    {
+        "location": "ノモセシティ",
+        "realLocation": "釧路市",
+        "address": "Kushiro, Hokkaido, Japan",
+        "latitude": 42.9849413,
+        "longitude": 144.3818041
+    },
+    {
+        "location": "213ばんどうろ",
+        "realLocation": "厚岸町",
+        "address": "Akkeshi, Akkeshi District, Hokkaido, Japan",
+        "latitude": 43.0519506,
+        "longitude": 144.8473693
+    },
+    {
+        "location": "だいしつげん",
+        "realLocation": "釧路湿原",
+        "address": "6-11 Hokuto, Kushiro, Hokkaido 084-0922, Japan",
+        "latitude": 43.07393250000001,
+        "longitude": 144.3205794
+    },
+    {
+        "location": "218ばんどうろ",
+        "realLocation": "函館本線",
+        "address": "Otaru Station, 2-chōme-22 Inaho, Otaru, Hokkaido 047-0032, Japan",
+        "latitude": 43.1976982,
+        "longitude": 140.9936905
+    },
+    {
+        "location": "ミオシティ",
+        "realLocation": "小樽市",
+        "address": "Otaru, Hokkaido, Japan",
+        "latitude": 43.1902372,
+        "longitude": 140.994172
+    },
+    {
+        "location": "216ばんどうろ",
+        "realLocation": "下川町 ピヤシリ山付近",
+        "address": "Mount Piyashiri, Sanru, Shimokawa, Kamikawa District, Hokkaido 098-1211, Japan",
+        "latitude": 44.4336296,
+        "longitude": 142.5840648
+    },
+    {
+        "location": "217ばんどうろ",
+        "realLocation": "宗谷本線",
+        "address": "Nayoro Station, 6-chōme Higashi 1 Jōminami, Nayoro, Hokkaido 096-0001, Japan",
+        "latitude": 44.3493831,
+        "longitude": 142.4652741
+    },
+    {
+        "location": "キッサキシティ",
+        "realLocation": "稚内市から浜頓別町あたり",
+        "address": "Hamatombetsu, Esashi District, Hokkaido, Japan",
+        "latitude": 45.1237674,
+        "longitude": 142.3596877
+    },
+    {
+        "location": "エイチこ",
+        "realLocation": "クッチャロ湖",
+        "address": "Lake Kutcharo, Hamatombetsu, Esashi District, Hokkaido, Japan",
+        "latitude": 45.1294646,
+        "longitude": 142.3307149
+    },
+    {
+        "location": "222ばんどうろ",
+        "realLocation": "浜中町",
+        "address": "Hamanaka, Akkeshi District, Hokkaido, Japan",
+        "latitude": 43.0777906,
+        "longitude": 145.1291538
+    },
+    {
+        "location": "ナギサシティ",
+        "realLocation": "根室市",
+        "address": "Nemuro, Hokkaido, Japan",
+        "latitude": 43.3301005,
+        "longitude": 145.5828181
+    },
+    {
+        "location": "シルベのとうだい",
+        "realLocation": "納沙布岬灯台",
+        "address": "Nosappu, Nemuro, Hokkaido 087-0165, Japan",
+        "latitude": 43.3851547,
+        "longitude": 145.8166243
+    },
+    {
+        "location": "こうてつじま",
+        "realLocation": "焼尻島",
+        "address": "Yagishiri Island, Yagishiri, Haboro, Tomamae District, Hokkaido 078-3871, Japan",
+        "latitude": 44.4364025,
+        "longitude": 141.4118563
+    },
+    {
+        "location": "223ばんすいどう",
+        "realLocation": "歯舞群島  色丹島",
+        "address": "Habomai Islands",
+        "latitude": 43.5,
+        "longitude": 146.1666667
+    },
+    {
+        "location": "チャンピオンロード",
+        "realLocation": "国後島泊山",
+        "address": "Kunashir Island",
+        "latitude": 44.14916669999999,
+        "longitude": 145.8752778
+    },
+    {
+        "location": "ポケモンリーグ",
+        "realLocation": "国後島羅臼山",
+        "address": "Vulkan Mendeleyeva",
+        "latitude": 43.9794444,
+        "longitude": 145.7325
+    },
+    {
+        "location": "224ばんどうろ",
+        "realLocation": "国後島爺爺岳 安渡移矢岬",
+        "address": "Kunashir Island",
+        "latitude": 44.14916669999999,
+        "longitude": 145.8752778
+    },
+    {
+        "location": "うみわれのみち",
+        "realLocation": "千島列島",
+        "address": "Kuril Islands, Sakhalin Oblast, Russia",
+        "latitude": 47.16037960000001,
+        "longitude": 150.9705378
+    },
+    {
+        "location": "はなのらくえん",
+        "realLocation": "千島列島阿頼度島",
+        "address": "Atlasov Island, Sakhalin Oblast, Russia, 694550",
+        "latitude": 50.8597222,
+        "longitude": 155.5594444
+    },
+    {
+        "location": "ファイトエリア",
+        "realLocation": "サハリン（樺太）・ネベリスク(本斗町)またはホルムスク(真岡町)",
+        "address": "Kholmsk, Sakhalin Oblast, Russia",
+        "latitude": 47.0614761,
+        "longitude": 142.0540332
+    },
+    {
+        "location": "サバイバルエリア",
+        "realLocation": "サハリン（樺太）・アニワ(留多加町)",
+        "address": "Aniva, Sakhalin Oblast, Russia",
+        "latitude": 46.719688,
+        "longitude": 142.5232662
+    },
+    {
+        "location": "230ばんすいどう",
+        "realLocation": "サハリン（樺太）・亜庭湾",
+        "address": "Aniva Bay, Russia, 694030",
+        "latitude": 46.6,
+        "longitude": 142.6
+    },
+    {
+        "location": "リゾートエリア",
+        "realLocation": "サハリン（樺太）・ノヴィコヴォ(知床村)",
+        "address": "Novikovo, Sakhalin Oblast, Russia, 694005",
+        "latitude": 46.3737648,
+        "longitude": 143.36014
+    },
+    {
+        "location": "229ばんどうろ",
+        "realLocation": "サハリン（樺太）・ノヴィコヴォ北部の森林地帯/オゼロ・ビリュゾヴォエ",
+        "address": "Sakhalin Oblast, Russia, 694005",
+        "latitude": 46.3633512,
+        "longitude": 143.4617249
+    },
+    {
+        "location": "228ばんどうろ",
+        "realLocation": "サハリン（樺太）・遠淵湖 オゼルスコエ(長浜村)",
+        "address": "Ozerskoye, Sakhalin Oblast, Russia, 694002",
+        "latitude": 46.6091948,
+        "longitude": 143.128966
+    },
+    {
+        "location": "227ばんどうろ",
+        "realLocation": "サハリン（樺太）・ダーチノエ ユジノ・サハリンスク",
+        "address": "Dachnoye, Sakhalin Oblast, Russia, 694015",
+        "latitude": 46.759277,
+        "longitude": 142.743942
+    },
+    {
+        "location": "ハードマウンテン",
+        "realLocation": "チェーホフ山(鈴谷岳)",
+        "address": "Pik Chekhova, Sakhalin Oblast, Russia, 693010",
+        "latitude": 47.00528629999999,
+        "longitude": 142.8403351
+    },
+    {
+        "location": "226ばんすいどう",
+        "realLocation": "サハリン（樺太）・亜庭湾",
+        "address": "Aniva Bay, Russia, 694030",
+        "latitude": 46.6,
+        "longitude": 142.6
+    },
+    {
+        "location": "まんげつじま",
+        "realLocation": "礼文島",
+        "address": "Rebun Island, Rebun, Rebun District, Hokkaido, Japan",
+        "latitude": 45.3922768,
+        "longitude": 141.0150364
+    },
+    {
+        "location": "しんげつじま",
+        "realLocation": "利尻島",
+        "address": "Rishiri Island, Rishiri District, Hokkaido, Japan",
+        "latitude": 45.2004238,
+        "longitude": 141.222042
+    },
+    {
+        "location": "カノコタウン",
+        "realLocation": "コニーアイランド",
+        "address": "Coney Island, Brooklyn, NY, USA",
+        "latitude": 40.5755438,
+        "longitude": -73.9707016
+    },
+    {
+        "location": "P2ラボ",
+        "realLocation": "ガバナーズ島",
+        "address": "Governors Island, New York, NY 11231, USA",
+        "latitude": 40.68945009999999,
+        "longitude": -74.016792
+    },
+    {
+        "location": "カラクサタウン",
+        "realLocation": "マリン・パーク",
+        "address": "Marine Park, Brooklyn, NY 11229, USA",
+        "latitude": 40.6120241,
+        "longitude": -73.9410328
+    },
+    {
+        "location": "サンヨウシティ",
+        "realLocation": "カナーシー",
+        "address": "Canarsie, Brooklyn, NY, USA",
+        "latitude": 40.6402325,
+        "longitude": -73.9060579
+    },
+    {
+        "location": "ゆめのあとち",
+        "realLocation": "フロイド・ベネット・フィールド",
+        "address": "Floyd Bennett Field, 3159 Flatbush Ave, Brooklyn, NY 11234, USA",
+        "latitude": 40.5910174,
+        "longitude": -73.89060909999999
+    },
+    {
+        "location": "ちかすいみゃくのあな",
+        "realLocation": "マッカレン公園",
+        "address": "McCarren Park, 776 Lorimer St, Brooklyn, NY 11222, USA",
+        "latitude": 40.7210549,
+        "longitude": -73.95244
+    },
+    {
+        "location": "シッポウシティ",
+        "realLocation": "ボアラム・ヒル",
+        "address": "Boerum Hill, Brooklyn, NY, USA",
+        "latitude": 40.6848689,
+        "longitude": -73.9844722
+    },
+    {
+        "location": "ヤグルマのもり",
+        "realLocation": "キャッドマンプラザ公園",
+        "address": "Cadman Plaza Park, Cadman Plaza E, Brooklyn, NY 11201, USA",
+        "latitude": 40.6976723,
+        "longitude": -73.9906433
+    },
+    {
+        "location": "ヒウンシティ",
+        "realLocation": "南マンハッタン",
+        "address": "Manhattan, New York, NY, USA",
+        "latitude": 40.7830603,
+        "longitude": -73.9712488
+    },
+    {
+        "location": "ジョインアベニュー",
+        "realLocation": "エンパイア・ステート・ビルまたはタイムズスクエア",
+        "address": "Manhattan, NY 10036, USA",
+        "latitude": 40.7579747,
+        "longitude": -73.9855426
+    },
+    {
+        "location": "スカイアローブリッジ",
+        "realLocation": "ブルックリン橋＋レインボーブリッジ",
+        "address": "Brooklyn Bridge, Brooklyn Bridge, New York, NY 10038, USA",
+        "latitude": 40.7060855,
+        "longitude": -73.9968643
+    },
+    {
+        "location": "リゾートデザート",
+        "realLocation": "チェルシー",
+        "address": "75 9th Ave, New York, NY 10011, USA",
+        "latitude": 40.7424396,
+        "longitude": -74.0061439
+    },
+    {
+        "location": "こだいのぬけみち",
+        "realLocation": "ホランド・トンネル",
+        "address": "Holland Tunnel, United States",
+        "latitude": 40.7275899,
+        "longitude": -74.0225431
+    },
+    {
+        "location": "ライモンシティ",
+        "realLocation": "ミッドタウン",
+        "address": "Midtown Manhattan, New York, NY, USA",
+        "latitude": 40.7549309,
+        "longitude": -73.9840195
+    },
+    {
+        "location": "ギアステーション",
+        "realLocation": "59丁目コロンバスサークル駅",
+        "address": "59 St - Columbus Circle, Columbus Cir, New York, NY 10023, USA",
+        "latitude": 40.7686521,
+        "longitude": -73.9814538
+    },
+    {
+        "location": "まよいのもり",
+        "realLocation": "ハレット自然保護区",
+        "address": "Hallett Nature Sanctuary, 6th Avenue &, Central Park S, New York, NY 10019, USA",
+        "latitude": 40.7666397,
+        "longitude": -73.9750243
+    },
+    {
+        "location": "ホドモエシティ",
+        "realLocation": "ユニオンシティ",
+        "address": "Union City, NJ 07087, USA",
+        "latitude": 40.7795455,
+        "longitude": -74.02375119999999
+    },
+    {
+        "location": "ホドモエのはねばし",
+        "realLocation": "ジョージ・ワシントン・ブリッジ",
+        "address": "George Washington Bridge, George Washington Bridge, Fort Lee, NJ 07024, USA",
+        "latitude": 40.8516964,
+        "longitude": -73.9527159
+    },
+    {
+        "location": "ヤーコンロード",
+        "realLocation": "州間高速道路95号線",
+        "address": "I-95, United States",
+        "latitude": 36.8780134,
+        "longitude": -77.40371449999999
+    },
+    {
+        "location": "でんきいしのほらあな",
+        "realLocation": "フレッシュキルズパーク",
+        "address": "Freshkills Park, Freshkills Park, Staten Island, NY 10314, USA",
+        "latitude": 40.5772365,
+        "longitude": -74.1858183
+    },
+    {
+        "location": "フキヨセシティ",
+        "realLocation": "テターボロ",
+        "address": "Teterboro, NJ, USA",
+        "latitude": 40.8598219,
+        "longitude": -74.0593075
+    },
+    {
+        "location": "フキヨセのほらあな",
+        "realLocation": "ローレル・ヒル・パーク",
+        "address": "Laurel Hill State Park, 1454 Laurel Hill Park Rd, Somerset, PA 15501, USA",
+        "latitude": 40.0101421,
+        "longitude": -79.2243475
+    },
+    {
+        "location": "タワーオブヘブン",
+        "realLocation": "メープルグローブパーク墓地",
+        "address": "Hackensack, NJ 07601, USA",
+        "latitude": 40.860222,
+        "longitude": -74.0402077
+    },
+    {
+        "location": "ネジやま",
+        "realLocation": "ハッケンサック・メドーランズ・コンサベーション・アンド野生動物保護区",
+        "address": "Hackensack Meadowlands Conservation and Wildlife Area, Carlstadt, NJ 07072, USA",
+        "latitude": 40.8138301,
+        "longitude": -74.040294
+    },
+    {
+        "location": "セッカシティ",
+        "realLocation": "リッジフィールドまたはリッジフィールド・パーク",
+        "address": "Ridgefield Park, NJ, USA",
+        "latitude": 40.8570442,
+        "longitude": -74.0215285
+    },
+    {
+        "location": "セッカのしつげん",
+        "realLocation": "オーバーペック郡立公園",
+        "address": "Overpeck County Park, 40 Fort Lee Rd, Leonia, NJ 07605, USA",
+        "latitude": 40.8643861,
+        "longitude": -73.99696759999999
+    },
+    {
+        "location": "リュウラセンのとう",
+        "realLocation": "リッジフィールドパーク",
+        "address": "Ridgefield Park, NJ, USA",
+        "latitude": 40.8570442,
+        "longitude": -74.0215285
+    },
+    {
+        "location": "シリンダーブリッジ",
+        "realLocation": "フォース鉄道橋",
+        "address": "Forth Bridge, United Kingdom",
+        "latitude": 56.0006491,
+        "longitude": -3.3884392
+    },
+    {
+        "location": "ショッピングモール R9",
+        "realLocation": "パリセード・センター",
+        "address": "1000 Palisades Center Dr, West Nyack, NY 10994, USA",
+        "latitude": 41.097053,
+        "longitude": -73.955844
+    },
+    {
+        "location": "しゅぎょうのいわや",
+        "realLocation": "ブロックハウス",
+        "address": "401 Creek Run Dr, Leander, TX 78641, USA",
+        "latitude": 30.540384,
+        "longitude": -97.8317644
+    },
+    {
+        "location": "ソウリュウシティ",
+        "realLocation": "ハーレム+ワシントンハイツ",
+        "address": "Sugar Hill, New York, NY, USA",
+        "latitude": 40.8279296,
+        "longitude": -73.94406459999999
+    },
+    {
+        "location": "ポケモンリーグ",
+        "realLocation": "サンズポイント・ヘンプステッドハウスまたはニューヨーク植物園",
+        "address": "Hempstead, NY 11550, USA",
+        "latitude": 40.7062128,
+        "longitude": -73.6187397
+    },
+    {
+        "location": "ビレッジブリッジ",
+        "realLocation": "トライボロー橋",
+        "address": "Robert F. Kennedy Bridge, Robert F. Kennedy Bridge, New York, NY 10035, USA",
+        "latitude": 40.7796852,
+        "longitude": -73.92664289999999
+    },
+    {
+        "location": "カゴメタウン",
+        "realLocation": "フラッシング",
+        "address": "Flushing, Queens, NY, USA",
+        "latitude": 40.7674987,
+        "longitude": -73.833079
+    },
+    {
+        "location": "ジャイアントホール",
+        "realLocation": "キセナパーク",
+        "address": "Kissena Park, Kissena Blvd and, Booth Memorial Ave, Fresh Meadows, NY 11365, USA",
+        "latitude": 40.74611910000001,
+        "longitude": -73.8076036
+    },
+    {
+        "location": "14ばんどうろ",
+        "realLocation": "ブロードチャンネル",
+        "address": "Broad Channel, Queens, NY, USA",
+        "latitude": 40.6158335,
+        "longitude": -73.8213213
+    },
+    {
+        "location": "サザナミタウン",
+        "realLocation": "ハワードビーチ ジョン・F・ケネディ国際空港",
+        "address": "John F. Kennedy International Airport (JFK), Queens, NY 11430, USA",
+        "latitude": 40.6413111,
+        "longitude": -73.77813909999999
+    },
+    {
+        "location": "ほうじょうのやしろ",
+        "realLocation": "ハイランド・パーク",
+        "address": "Highland Park, 502 Washington Avenue Southwest, Roanoke, VA 24016, USA",
+        "latitude": 37.263506,
+        "longitude": -79.9535381
+    },
+    {
+        "location": "ワンダーブリッジ",
+        "realLocation": "クイーンズボロ橋",
+        "address": "Ed Koch Queensboro Bridge, Ed Koch Queensboro Bridge, New York, NY 10044, USA",
+        "latitude": 40.75673159999999,
+        "longitude": -73.9542239
+    },
+    {
+        "location": "ブラックシティ",
+        "realLocation": "ロングアイランドシティ",
+        "address": "Long Island City, Queens, NY, USA",
+        "latitude": 40.744679,
+        "longitude": -73.9485424
+    },
+    {
+        "location": "ホワイトフォレスト",
+        "realLocation": "クイーンズブリッジ・ハウシズ付近",
+        "address": "Houses, Queens, NY 11101, USA",
+        "latitude": 40.7556711,
+        "longitude": -73.9456723
+    },
+    {
+        "location": "シフトファクトリー",
+        "realLocation": "コーネル技術大学",
+        "address": "2 W Loop Rd, New York, NY 10044, USA",
+        "latitude": 40.75469710000001,
+        "longitude": -73.95638840000001
+    },
+    {
+        "location": "ハイリンク",
+        "realLocation": "皇居＋セントラル・パーク",
+        "address": "Central Park Conservancy, New York, NY 10022, USA",
+        "latitude": 40.7828647,
+        "longitude": -73.9675438
+    },
+    {
+        "location": "リバティガーデンとう",
+        "realLocation": "リバティ島",
+        "address": "Liberty Island, New York, NY 10004, USA",
+        "latitude": 40.6895453,
+        "longitude": -74.0449292
+    },
+    {
+        "location": "ユナイテッドタワー",
+        "realLocation": "国際連合本部ビル",
+        "address": "New York, NY 10017, USA",
+        "latitude": 40.7488758,
+        "longitude": -73.9680091
+    },
+    {
+        "location": "ポケウッド",
+        "realLocation": "ハリウッド(位置的にはリンカーン・パーク)",
+        "address": "Hollywood, Los Angeles, CA, USA",
+        "latitude": 34.0928092,
+        "longitude": -118.3286614
+    },
+    {
+        "location": "カナワタウン",
+        "realLocation": "モリスタウン",
+        "address": "Morristown, NJ 07960, USA",
+        "latitude": 40.79676670000001,
+        "longitude": -74.4815438
+    },
+    {
+        "location": "ヒオウギシティ",
+        "realLocation": "エリザベス",
+        "address": "3500 E Frank Phillips Blvd, Bartlesville, OK 74006, USA",
+        "latitude": 36.750671,
+        "longitude": -95.938194
+    },
+    {
+        "location": "サンギタウン",
+        "realLocation": "ニューアーク",
+        "address": "Newark, NJ, USA",
+        "latitude": 40.735657,
+        "longitude": -74.1723667
+    },
+    {
+        "location": "サンギぼくじょう",
+        "realLocation": "ブランチ・ブルック・パーク",
+        "address": "Branch Brook Park, Lake St & Park Avenue, Newark, NJ 07104, USA",
+        "latitude": 40.7594562,
+        "longitude": -74.181168
+    },
+    {
+        "location": "こころのくうどう",
+        "realLocation": "ウィーアヒック湖",
+        "address": "Weequahic Lake, Newark, NJ 07114, USA",
+        "latitude": 40.7020464,
+        "longitude": -74.20236729999999
+    },
+    {
+        "location": "タチワキシティ",
+        "realLocation": "ジャージーシティ",
+        "address": "Jersey City, NJ, USA",
+        "latitude": 40.7177545,
+        "longitude": -74.0431435
+    },
+    {
+        "location": "ヤマジタウン",
+        "realLocation": "フォレスト・ヒルズ",
+        "address": "Forest Hills, Wichita, KS 67206, USA",
+        "latitude": 37.6907005,
+        "longitude": -97.2302295
+    },
+    {
+        "location": "リバースマウンテン",
+        "realLocation": "フォレスト・パーク",
+        "address": "Forest Park, 5595 Grand Dr, St. Louis, MO 63112, USA",
+        "latitude": 38.644081,
+        "longitude": -90.283466
+    },
+    {
+        "location": "ストレンジャーハウス",
+        "realLocation": "メープル・グローブ墓地",
+        "address": "1226 E 85th St N, Park City, KS 67147, USA",
+        "latitude": 37.8393077,
+        "longitude": -97.32648139999999
+    },
+    {
+        "location": "セイガイハシティ",
+        "realLocation": "ハーバー・アイル アイランド・パーク",
+        "address": "Island Park, ID 83429, USA",
+        "latitude": 44.5169043,
+        "longitude": -111.5181449
+    },
+    {
+        "location": "うみべのどうけつ",
+        "realLocation": "ローレンス付近",
+        "address": "Lawrence, KS, USA",
+        "latitude": 38.9716689,
+        "longitude": -95.2352501
+    },
+    {
+        "location": "マリンチューブ",
+        "realLocation": "オーシャンパークウェイ",
+        "address": "Ocean Park Way, Dennis, MA 02670, USA",
+        "latitude": 41.6523133,
+        "longitude": -70.16819869999999
+    },
+    {
+        "location": "海底遺跡",
+        "realLocation": "パブロペトリ遺跡",
+        "address": "Pounta 230 53, Greece",
+        "latitude": 36.5209112,
+        "longitude": 22.9833107
+    },
+    {
+        "location": "アサメタウン",
+        "realLocation": "ムーラン",
+        "address": "Moulins, France",
+        "latitude": 46.5591216,
+        "longitude": 3.2904796
+    },
+    {
+        "location": "メイスイタウン",
+        "realLocation": "ヌヴェール",
+        "address": "Nevers, France",
+        "latitude": 46.9852212,
+        "longitude": 3.124752
+    },
+    {
+        "location": "ハクダンシティ",
+        "realLocation": "フォンテーヌブロー",
+        "address": "77300 Fontainebleau, France",
+        "latitude": 48.40467599999999,
+        "longitude": 2.70162
+    },
+    {
+        "location": "ハクダンのもり",
+        "realLocation": "フォンテーヌブローの森",
+        "address": "Forest of Fontainebleau, France",
+        "latitude": 48.4193165,
+        "longitude": 2.6329993
+    },
+    {
+        "location": "ミアレシティ",
+        "realLocation": "パリ",
+        "address": "Paris, France",
+        "latitude": 48.856614,
+        "longitude": 2.3522219
+    },
+    {
+        "location": "コボクタウン",
+        "realLocation": "ブロワ",
+        "address": "41000 Blois, France",
+        "latitude": 47.58609209999999,
+        "longitude": 1.3359475
+    },
+    {
+        "location": "ショボンヌじょう",
+        "realLocation": "ブロワ城",
+        "address": "6 Place du Château, 41000 Blois, France",
+        "latitude": 47.5853918,
+        "longitude": 1.3305829
+    },
+    {
+        "location": "パルファムきゅうでん",
+        "realLocation": "ベルサイユ宮殿",
+        "address": "Place d'Armes, 78000 Versailles, France",
+        "latitude": 48.8048649,
+        "longitude": 2.1203554
+    },
+    {
+        "location": "バトルシャトー",
+        "realLocation": "シュノンソー城",
+        "address": "Château de Chenonceau, 37150 Chenonceaux, France",
+        "latitude": 47.3248696,
+        "longitude": 1.0703005
+    },
+    {
+        "location": "じつなぎのどうけつ",
+        "realLocation": "グラン・リュ湖?",
+        "address": "44860 Saint-Aignan-Grandlieu, France",
+        "latitude": 47.124134,
+        "longitude": -1.630217
+    },
+    {
+        "location": "コウジンタウン",
+        "realLocation": "ラ・ロシェル",
+        "address": "La Rochelle, France",
+        "latitude": 46.1620346,
+        "longitude": -1.2463008
+    },
+    {
+        "location": "かがやきのどうくつ",
+        "realLocation": "ラスコー洞窟",
+        "address": "Lascaux, 24290 Montignac, France",
+        "latitude": 45.053919,
+        "longitude": 1.167651
+    },
+    {
+        "location": "ショウヨウシティ",
+        "realLocation": "サン＝ナゼール",
+        "address": "44600 Saint-Nazaire, France",
+        "latitude": 47.2734979,
+        "longitude": -2.213848
+    },
+    {
+        "location": "セキタイタウン",
+        "realLocation": "カルナック",
+        "address": "56340 Carnac, France",
+        "latitude": 47.58469299999999,
+        "longitude": -3.077786
+    },
+    {
+        "location": "うつしみのどうくつ",
+        "realLocation": "アルモリカ山塊",
+        "address": "Armorican Massif, 56930 Pluméliau-Bieuzy, France",
+        "latitude": 48.00000000000001,
+        "longitude": -3.0
+    },
+    {
+        "location": "シャラシティ",
+        "realLocation": "サン・マロ",
+        "address": "Saint-Malo, France",
+        "latitude": 48.649337,
+        "longitude": -2.025674
+    },
+    {
+        "location": "マスタータワー",
+        "realLocation": "モン・サン＝ミシェル",
+        "address": "Mont Saint-Michel, 50170, France",
+        "latitude": 48.6360167,
+        "longitude": -1.5111148
+    },
+    {
+        "location": "アズールわん",
+        "realLocation": "イギリス海峡",
+        "address": "English Channel",
+        "latitude": 50.134664,
+        "longitude": -0.357056
+    },
+    {
+        "location": "わだつみのあな",
+        "realLocation": "チャンネル諸島",
+        "address": "Channel Islands",
+        "latitude": 49.4466698,
+        "longitude": -2.342378
+    },
+    {
+        "location": "ヒヨクシティ",
+        "realLocation": "ル・アーヴル",
+        "address": "Le Havre, France",
+        "latitude": 49.49437,
+        "longitude": 0.107929
+    },
+    {
+        "location": "カロスはつでんしょ",
+        "realLocation": "サン＝ローラン＝デ＝ゾー原子力発電所",
+        "address": "La centrale, 41220 Saint-Laurent-Nouan, France",
+        "latitude": 47.72008959999999,
+        "longitude": 1.5801954
+    },
+    {
+        "location": "クノエシティ",
+        "realLocation": "アミアンからカレー",
+        "address": "Amiens, France",
+        "latitude": 49.894067,
+        "longitude": 2.295753
+    },
+    {
+        "location": "あれはてホテル",
+        "realLocation": "リール城塞",
+        "address": "Avenue du 43e régiment d'infanterie, 59800 Lille, France",
+        "latitude": 50.6409299,
+        "longitude": 3.0445812
+    },
+    {
+        "location": "フロストケイブ",
+        "realLocation": "アルデンヌ",
+        "address": "Ardennes, 6960 Manhay, Belgium",
+        "latitude": 50.2499798,
+        "longitude": 5.6666323
+    },
+    {
+        "location": "フウジョタウン",
+        "realLocation": "シャルルヴィル＝メジエール",
+        "address": "08000 Charleville-Mézières, France",
+        "latitude": 49.76208500000001,
+        "longitude": 4.726096
+    },
+    {
+        "location": "ついのどうくつ",
+        "realLocation": "ヴォージュ・デュ・ノール自然公園",
+        "address": "Parc naturel régional des Vosges du Nord, 21 Rue du Château, 67290 La Petite-Pierre, France",
+        "latitude": 48.856795,
+        "longitude": 7.315991099999999
+    },
+    {
+        "location": "ヒャッコクシティ",
+        "realLocation": "ストラスブール",
+        "address": "Strasbourg, France",
+        "latitude": 48.5734053,
+        "longitude": 7.752111299999999
+    },
+    {
+        "location": "レンリタウン",
+        "realLocation": "モルスアイム",
+        "address": "67120 Molsheim, France",
+        "latitude": 48.543715,
+        "longitude": 7.491511999999999
+    },
+    {
+        "location": "エイセツシティ",
+        "realLocation": "ブザンソン",
+        "address": "25000 Besançon, France",
+        "latitude": 47.237829,
+        "longitude": 6.024053899999999
+    },
+    {
+        "location": "ポケモンのむら",
+        "realLocation": "オー＝ジュラ自然公園",
+        "address": "Jura Mountains",
+        "latitude": 47.0085771,
+        "longitude": 6.785593599999999
+    },
+    {
+        "location": "チャンピオンロード",
+        "realLocation": "ブーヴレ山",
+        "address": "Mont Beuvray, 71990 Saint-Léger-sous-Beuvray, France",
+        "latitude": 46.926015,
+        "longitude": 4.036758000000001
+    },
+    {
+        "location": "ポケモンリーグ",
+        "realLocation": "シャンボール城",
+        "address": "Château de Chambord, Château, 41250 Chambord, France",
+        "latitude": 47.616126,
+        "longitude": 1.517218
+    },
+    {
+        "location": "キナンシティ",
+        "realLocation": "リヨン",
+        "address": "Lyon, France",
+        "latitude": 45.764043,
+        "longitude": 4.835659
+    },
+    {
+        "location": "メレメレじま",
+        "realLocation": "オアフ島",
+        "address": "O‘ahu, Hawaii, USA",
+        "latitude": 21.4389123,
+        "longitude": -158.0000565
+    },
+    {
+        "location": "アーカラじま",
+        "realLocation": "マウイ島",
+        "address": "Maui, Hawaii, USA",
+        "latitude": 20.7983626,
+        "longitude": -156.3319253
+    },
+    {
+        "location": "ウラウラじま",
+        "realLocation": "ハワイ島",
+        "address": "Island of Hawai'i, Hawaii, USA",
+        "latitude": 19.5429151,
+        "longitude": -155.6658568
+    },
+    {
+        "location": "ポニじま",
+        "realLocation": "カウアイ島",
+        "address": "Kauai, Hawaii, USA",
+        "latitude": 22.0964396,
+        "longitude": -159.5261238
+    },
+    {
+        "location": "ハウオリシティ",
+        "realLocation": "ホノルル",
+        "address": "Honolulu, HI, USA",
+        "latitude": 21.3069444,
+        "longitude": -157.8583333
+    },
+    {
+        "location": "ハウオリシティビーチサイドエリア",
+        "realLocation": "ワイキキ",
+        "address": "Waikiki, Honolulu, HI 96815, USA",
+        "latitude": 21.2822932,
+        "longitude": -157.8310083
+    },
+    {
+        "location": "ハウオリシティショッピングエリア",
+        "realLocation": "アラ・モアナ・ショッピングセンター",
+        "address": "1450 Ala Moana Blvd, Honolulu, HI 96814, USA",
+        "latitude": 21.2910621,
+        "longitude": -157.8434799
+    },
+    {
+        "location": "ハウオリシティポートエリア",
+        "realLocation": "アラ・ワイボート港（アラ・ワイ・ハーバー）",
+        "address": "1651 Ala Moana Blvd, Honolulu, HI 96815, USA",
+        "latitude": 21.287204,
+        "longitude": -157.8405653
+    },
+    {
+        "location": "リリィタウン",
+        "realLocation": "ワヒアワ",
+        "address": "Wahiawa, HI 96786, USA",
+        "latitude": 21.5010495,
+        "longitude": -158.0209227
+    },
+    {
+        "location": "きのみばたけ",
+        "realLocation": "ドール・プランテーション",
+        "address": "64-1550 Kamehameha Hwy, Wahiawa, HI 96786, USA",
+        "latitude": 21.5260517,
+        "longitude": -158.0376481
+    },
+    {
+        "location": "ハウオリれいえん",
+        "realLocation": "ナナクリ・ホームステッド墓地",
+        "address": "Waianae, HI 96792, USA",
+        "latitude": 21.386966,
+        "longitude": -158.1379656
+    },
+    {
+        "location": "マハロさんどう",
+        "realLocation": "アイエアループトレイル",
+        "address": "'Aiea Loop Trail, Hawaii 96701, USA",
+        "latitude": 21.3977642,
+        "longitude": -157.8920287
+    },
+    {
+        "location": "しげみのどうくつ",
+        "realLocation": "カネアナ洞窟 (マクア洞窟)",
+        "address": "86-260 Farrington Hwy, Waianae, HI 96792, USA",
+        "latitude": 21.5196908,
+        "longitude": -158.2277162
+    },
+    {
+        "location": "メレメレのはなぞの",
+        "realLocation": "カイパパウ・フォレスト保護区",
+        "address": "Kaipapau Forest Reserve, Laie, HI 96762, USA",
+        "latitude": 21.5911078,
+        "longitude": -157.9374589
+    },
+    {
+        "location": "テンカラットヒル",
+        "realLocation": "ダイヤモンドヘッド",
+        "address": "Diamond Head, Honolulu, HI 96815, USA",
+        "latitude": 21.261983,
+        "longitude": -157.8059987
+    },
+    {
+        "location": "うみつなぎのどうけつ",
+        "realLocation": "マーメイドケーブ",
+        "address": "Mermaid Caves, 89-410 Keaulana Ave, Waianae, HI 96792, USA",
+        "latitude": 21.3734349,
+        "longitude": -158.1411096
+    },
+    {
+        "location": "カーラエわん",
+        "realLocation": "ハナウマ湾",
+        "address": "Hanauma Bay, Hawaii 96825, USA",
+        "latitude": 21.2690358,
+        "longitude": -157.6937919
+    },
+    {
+        "location": "いくさのいせき",
+        "realLocation": "プウ・オ・マフカ・ヘイアウ",
+        "address": "Pu'u O Mahuka Heiau State Historic Site, 59-818 Kamehameha Hwy #96712, Haleiwa, HI 96712, USA",
+        "latitude": 21.6415759,
+        "longitude": -158.059368
+    },
+    {
+        "location": "メレメレかい",
+        "realLocation": "カイウイ海峡",
+        "address": "Moloka‘i, Hawaii, USA",
+        "latitude": 21.1443935,
+        "longitude": -157.0226297
+    },
+    {
+        "location": "ビッグウェーブビーチ",
+        "realLocation": "タートル・ベイ・リゾート",
+        "address": "57-091 Kamehameha Hwy, Kahuku, HI 96731, USA",
+        "latitude": 21.7051806,
+        "longitude": -157.9988444
+    },
+    {
+        "location": "はまべのほらあな",
+        "realLocation": "タートル・コーヴ",
+        "address": "4500 Captain Cook Hwy, Wangetti QLD 4877, Australia",
+        "latitude": -16.6287299,
+        "longitude": 145.5491147
+    },
+    {
+        "location": "カンタイシティ",
+        "realLocation": "カフルイ",
+        "address": "Kahului, HI, USA",
+        "latitude": 20.8893351,
+        "longitude": -156.4729469
+    },
+    {
+        "location": "せせらぎのおか",
+        "realLocation": "カナハ・ポンド・ステート・ワイルドライフ自然保護区",
+        "address": "Kanaha Pond State Wildlife Sanctuary, Kahului, HI 96732, USA",
+        "latitude": 20.8916016,
+        "longitude": -156.4539348
+    },
+    {
+        "location": "ピカチュウのたに",
+        "realLocation": "イアオ渓谷",
+        "address": "Iao Valley, Hawaii 96793, USA",
+        "latitude": 20.8800769,
+        "longitude": -156.5544368
+    },
+    {
+        "location": "カンタイビーチ",
+        "realLocation": "カフルイビーチ",
+        "address": "Kahului Beach, Kahului, HI 96732, USA",
+        "latitude": 20.8957393,
+        "longitude": -156.4788298
+    },
+    {
+        "location": "オハナタウン",
+        "realLocation": "マカワオ",
+        "address": "Makawao, HI, USA",
+        "latitude": 20.8569444,
+        "longitude": -156.3130556
+    },
+    {
+        "location": "オハナぼくじょう",
+        "realLocation": "ハレアカラ牧場",
+        "address": "Haleakalā National Park, Hawaii, USA",
+        "latitude": 20.7203826,
+        "longitude": -156.1551524
+    },
+    {
+        "location": "ロイヤルアベニュー",
+        "realLocation": "ショップス・アット・ワイレア",
+        "address": "3750 Wailea Alanui Dr, Wailea, HI 96753, USA",
+        "latitude": 20.6869444,
+        "longitude": -156.4402778
+    },
+    {
+        "location": "ディグダトンネル",
+        "realLocation": "ハワイ州道30号線オロワルトンネル",
+        "address": "Hawaii, USA",
+        "latitude": 19.8967662,
+        "longitude": -155.5827818
+    },
+    {
+        "location": "コニコシティ",
+        "realLocation": "ラハイナ",
+        "address": "Lahaina, HI, USA",
+        "latitude": 20.8783333,
+        "longitude": -156.6825
+    },
+    {
+        "location": "ハノハノリゾート",
+        "realLocation": "グランド ワイレア リゾート",
+        "address": "3850 Wailea Alanui Dr, Wailea, HI 96753, USA",
+        "latitude": 20.6843565,
+        "longitude": -156.4403719
+    },
+    {
+        "location": "ハノハノビーチ",
+        "realLocation": "マケーナビーチ",
+        "address": "5400 Makena Alanui, Kihei, HI 96753, USA",
+        "latitude": 20.6465749,
+        "longitude": -156.4409225
+    },
+    {
+        "location": "ヴェラかざんこうえん",
+        "realLocation": "ハレアカラ国立公園",
+        "address": "Haleakalā, Hawaii 96790, USA",
+        "latitude": 20.7096921,
+        "longitude": -156.2535147
+    },
+    {
+        "location": "ワカツダケトンネル",
+        "realLocation": "ハナ・ハイウェイ",
+        "address": "Hana Hwy, Hawaii, USA",
+        "latitude": 20.8546661,
+        "longitude": -156.1694682
+    },
+    {
+        "location": "シェードジャングル",
+        "realLocation": "ハナ森林保護区",
+        "address": "Hana, HI 96713, USA",
+        "latitude": 20.757508,
+        "longitude": -155.988407
+    },
+    {
+        "location": "メモリアルヒル",
+        "realLocation": "オロワルのペトログリフ",
+        "address": "361 Luawai St, Lahaina, HI 96761, USA",
+        "latitude": 20.8188,
+        "longitude": -156.6184518
+    },
+    {
+        "location": "いのちのいせき",
+        "realLocation": "ハレ・オ・ピイラニ・ヘイアウ",
+        "address": "150 Manino Cir, Kihei, HI 96753, USA",
+        "latitude": 20.750108,
+        "longitude": -156.4488869
+    },
+    {
+        "location": "マリエシティ",
+        "realLocation": "ヒロ",
+        "address": "Hilo, HI 96720, USA",
+        "latitude": 19.7241106,
+        "longitude": -155.0868193
+    },
+    {
+        "location": "マリエていえん",
+        "realLocation": "リリウオカラニ公園",
+        "address": "Liliʻuokalani Park and Gardens, 189 Lihiwai St #151, Hilo, HI 96720, USA",
+        "latitude": 19.726372,
+        "longitude": -155.068079
+    },
+    {
+        "location": "ホクラニだけ",
+        "realLocation": "マウナ・ロア山マウナケア山",
+        "address": "Mauna Loa, South Kona, HI 96785, USA",
+        "latitude": 19.4721389,
+        "longitude": -155.5922066
+    },
+    {
+        "location": "ホクラニてんもんだい",
+        "realLocation": "マウナロア観測所マウナケア天文台群",
+        "address": "Mauna Kea Access Rd, Hilo, HI 96720, USA",
+        "latitude": 19.8208343,
+        "longitude": -155.468064
+    },
+    {
+        "location": "ホテリやま",
+        "realLocation": "キラウエア火山",
+        "address": "Kīlauea, Hawaii 96778, USA",
+        "latitude": 19.4068929,
+        "longitude": -155.2833786
+    },
+    {
+        "location": "ちねつはつでんしょ",
+        "realLocation": "プナ地熱発電所",
+        "address": "Puna, Hawaiian Acres, HI 96771, USA",
+        "latitude": 19.541791,
+        "longitude": -155.101018
+    },
+    {
+        "location": "ウラウラうらかいがん",
+        "realLocation": "アハラヌイ･パーク～アイザック・ヘイル・パーク",
+        "address": "Hawaii 96778, USA",
+        "latitude": 19.4576939,
+        "longitude": -154.8418399
+    },
+    {
+        "location": "カプのむら～エーテルハウス",
+        "realLocation": "カウ",
+        "address": "Ka‘Ū, Hawaii, USA",
+        "latitude": 19.233753,
+        "longitude": -155.7949223
+    },
+    {
+        "location": "カプのむら",
+        "realLocation": "ヘイアウ跡",
+        "address": "Pu'u O Mahuka Heiau State Historic Site, 59-818 Kamehameha Hwy #96712, Haleiwa, HI 96712, USA",
+        "latitude": 21.6415759,
+        "longitude": -158.059368
+    },
+    {
+        "location": "スーパー・メガやす跡地",
+        "realLocation": "パハラ",
+        "address": "Pahala, HI 96777, USA",
+        "latitude": 19.202572,
+        "longitude": -155.4774719
+    },
+    {
+        "location": "ハイナさばく",
+        "realLocation": "カウ砂漠",
+        "address": "Ka‘Ū Desert, Hawaii, USA",
+        "latitude": 19.35,
+        "longitude": -155.3166667
+    },
+    {
+        "location": "がちりんのみずうみ・にちりんのみずうみ",
+        "realLocation": "ワイアウ湖",
+        "address": "Lake Waiau, Hawaii, USA",
+        "latitude": 19.8114741,
+        "longitude": -155.4777779
+    },
+    {
+        "location": "ウラウラのはなぞの",
+        "realLocation": "プウホヌア・オ・ホナウナウ国立歴史公園",
+        "address": "Pu'uhonua O Hōnaunau National Historical Park, State Hwy 160, Hōnaunau, HI 96726, USA",
+        "latitude": 19.4215385,
+        "longitude": -155.9105253
+    },
+    {
+        "location": "ポータウン",
+        "realLocation": "ハヴィ",
+        "address": "Hawi, HI 96719, USA",
+        "latitude": 20.2413889,
+        "longitude": -155.8327778
+    },
+    {
+        "location": "ラナキラマウンテン",
+        "realLocation": "マウナ・ロア山マウナ・ケア山",
+        "address": "Mauna Loa, South Kona, HI 96785, USA",
+        "latitude": 19.4721389,
+        "longitude": -155.5922066
+    },
+    {
+        "location": "14ばんどうろ",
+        "realLocation": "オーシャンビュー",
+        "address": "1447 Ocean Ave, Santa Monica, CA 90401, USA",
+        "latitude": 34.01325,
+        "longitude": -118.496484
+    },
+    {
+        "location": "15ばんすいどう〜16ばんどうろ",
+        "realLocation": "キャプテン・クック ミロリイ(浜部分)/モロカイ島/ラナイ島/カホオラウェ島/ジョンストン島(小島)",
+        "address": "Captain Cook, HI, USA",
+        "latitude": 19.4969444,
+        "longitude": -155.9216667
+    },
+    {
+        "location": "みのりのいせき",
+        "realLocation": "プウコホラ・ヘイアウ",
+        "address": "62-3601 Kawaihae Rd, Waimea, HI 96743, USA",
+        "latitude": 20.025629,
+        "longitude": -155.8217773
+    },
+    {
+        "location": "うみのたみのむら",
+        "realLocation": "ワイメア？",
+        "address": "Waimea, HI 96743, USA",
+        "latitude": 20.0230556,
+        "longitude": -155.6716667
+    },
+    {
+        "location": "ポニのげんや",
+        "realLocation": "ワイメア・キャニオン州立公園",
+        "address": "Waimea Canyon State Park, Waimea Canyon Dr, Waimea, HI 96796, USA",
+        "latitude": 22.0714839,
+        "longitude": -159.6616774
+    },
+    {
+        "location": "ポニのビーチ",
+        "realLocation": "ポリアレ州立公園",
+        "address": "Polihale State Park, Hawaii, USA",
+        "latitude": 22.0794713,
+        "longitude": -159.7669826
+    },
+    {
+        "location": "ポニのあらいそ",
+        "realLocation": "カワイロア湾～ハウラ湾～ナウィリウィリ湾",
+        "address": "Nawiliwili Bay, Hawaii 96766, USA",
+        "latitude": 21.950451,
+        "longitude": -159.3548004
+    },
+    {
+        "location": "ポニのこどう",
+        "realLocation": "カラヘオコロア",
+        "address": "Kalaheo, HI 96741, USA",
+        "latitude": 21.9286111,
+        "longitude": -159.5302778
+    },
+    {
+        "location": "ポニのだいきょうこく",
+        "realLocation": "カウイキニ山～アラカイ自然保護区",
+        "address": "Kawaikini, Hawaii 96741, USA",
+        "latitude": 22.0584376,
+        "longitude": -159.4974082
+    },
+    {
+        "location": "にちりんのさいだん・がちりんのさいだん",
+        "realLocation": "ワイアレアレ山",
+        "address": "Waialeale, Hawaii 96746, USA",
+        "latitude": 22.0706522,
+        "longitude": -159.4961272
+    },
+    {
+        "location": "ポニのじゅりん",
+        "realLocation": "ワイルアリバー州立公園",
+        "address": "Wailua River State Park, Kapaʻa, HI 96746, USA",
+        "latitude": 22.0418504,
+        "longitude": -159.3930387
+    },
+    {
+        "location": "ポニのこうや",
+        "realLocation": "カワイハウ",
+        "address": "Kawaihau, Kapaʻa, HI 96746, USA",
+        "latitude": 22.103611,
+        "longitude": -159.3494444
+    },
+    {
+        "location": "ポニのかいがん",
+        "realLocation": "バリクビーチパパア・ベイ・ビーチモロアア・ビーチ",
+        "address": "3531 Moloaa Rd, Kilauea, HI 96754, USA",
+        "latitude": 22.1936172,
+        "longitude": -159.3331718
+    },
+    {
+        "location": "ポニのはなぞの",
+        "realLocation": "シダの洞窟",
+        "address": "Kapaʻa, HI 96746, USA",
+        "latitude": 22.0395109,
+        "longitude": -159.3592349
+    },
+    {
+        "location": "エンドケイブ",
+        "realLocation": "マニニホロ洞窟",
+        "address": "5-7878 Kuhio Hwy, Kilauea, HI 96754, USA",
+        "latitude": 22.2192138,
+        "longitude": -159.5655236
+    },
+    {
+        "location": "ポニのけんろ",
+        "realLocation": "キラウェア（街）～ハナレイ国立野生動物保護区",
+        "address": "Kīlauea, Hawaii 96778, USA",
+        "latitude": 19.4068929,
+        "longitude": -155.2833786
+    },
+    {
+        "location": "バトルツリー",
+        "realLocation": "プリンスヴィル・リゾート",
+        "address": "5520 Ka Haku Rd, Princeville, HI 96722, USA",
+        "latitude": 22.2210015,
+        "longitude": -159.4970711
+    },
+    {
+        "location": "ひがんのいせき",
+        "realLocation": "ポリアフ・ヘイアウ",
+        "address": "Kauai, Hawaii, USA",
+        "latitude": 22.0964396,
+        "longitude": -159.5261238
+    },
+    {
+        "location": "ナッシー・アイランド",
+        "realLocation": "ニイハウ島またはカホオラウェ島",
+        "address": "Ni‘ihau, Hawaii 96769, USA",
+        "latitude": 21.8921433,
+        "longitude": -160.1574878
+    },
+    {
+        "location": "エーテルパラダイス",
+        "realLocation": "パパハナウモクアケア海洋ナショナル・モニュメント",
+        "address": "Papahanaumokuakea Marine National Monument, United States",
+        "latitude": 25.7276624,
+        "longitude": -170.4549026
+    },
+    {
+        "location": "ポケリゾート",
+        "realLocation": "北西ハワイ諸島",
+        "address": "Northwestern Hawaiian Islands, United States",
+        "latitude": 25.7548339,
+        "longitude": -170.1439198
+    },
+    {
+        "location": "ハロンタウン",
+        "realLocation": "インヴァネス",
+        "address": "Inverness, UK",
+        "latitude": 57.477773,
+        "longitude": -4.224721
+    },
+    {
+        "location": "まどろみの森",
+        "realLocation": "ケアンゴームズ国立公園",
+        "address": "Cairngorms National Park, Grantown on Spey PH26 3HG, UK",
+        "latitude": 57.0492193,
+        "longitude": -3.5615665
+    },
+    {
+        "location": "ブラッシータウン",
+        "realLocation": "アビモア",
+        "address": "Aviemore PH22, UK",
+        "latitude": 57.19448999999999,
+        "longitude": -3.823812
+    },
+    {
+        "location": "ワイルドエリア",
+        "realLocation": "湖水地方",
+        "address": "Cumbria, UK",
+        "latitude": 54.5772323,
+        "longitude": -2.7974835
+    },
+    {
+        "location": "エンジンシティ",
+        "realLocation": "マンチェスター",
+        "address": "Manchester, UK",
+        "latitude": 53.4807593,
+        "longitude": -2.2426305
+    },
+    {
+        "location": "ガラルこうざん",
+        "realLocation": "ノース・ヨーク・ムーアズ国立公園",
+        "address": "North York Moors National Park, United Kingdom",
+        "latitude": 54.38715999999999,
+        "longitude": -0.892714
+    },
+    {
+        "location": "ターフタウン",
+        "realLocation": "ヨーク",
+        "address": "York, UK",
+        "latitude": 53.9585761,
+        "longitude": -1.150631
+    },
+    {
+        "location": "バウタウン",
+        "realLocation": "リバプール",
+        "address": "Liverpool, UK",
+        "latitude": 53.4120954,
+        "longitude": -3.0561409
+    },
+    {
+        "location": "だいにこうざん",
+        "realLocation": "フォレスト・オブ・ボウランド",
+        "address": "Forest of Bowland, Clitheroe BB7 3BL, UK",
+        "latitude": 54.0054069,
+        "longitude": -2.5040348
+    },
+    {
+        "location": "ナックルシティ",
+        "realLocation": "バーミンガム",
+        "address": "Birmingham, UK",
+        "latitude": 52.48624299999999,
+        "longitude": -1.890401
+    },
+    {
+        "location": "ラテラルタウン",
+        "realLocation": "ボクストン",
+        "address": "Buxton SK17, UK",
+        "latitude": 53.259082,
+        "longitude": -1.91483
+    },
+    {
+        "location": "ルミナスメイズのもり",
+        "realLocation": "シャーウッドの森",
+        "address": "Sherwood Forest, Mansfield, UK",
+        "latitude": 53.205875,
+        "longitude": -1.0860901
+    },
+    {
+        "location": "アラベスクタウン",
+        "realLocation": "ノッティンガムまたはストラトフォード＝アポン＝エイヴォン",
+        "address": "Nottingham, UK",
+        "latitude": 52.95478319999999,
+        "longitude": -1.1581086
+    },
+    {
+        "location": "8ばんどうろ",
+        "realLocation": "シェロップ・シャー",
+        "address": "Shropshire, UK",
+        "latitude": 52.7063657,
+        "longitude": -2.7417849
+    },
+    {
+        "location": "キルクスタウン",
+        "realLocation": "バース",
+        "address": "Bath, UK",
+        "latitude": 51.3801056,
+        "longitude": -2.4345695
+    },
+    {
+        "location": "9ばんどうろ",
+        "realLocation": "カーディガン湾",
+        "address": "Cardigan Bay, United Kingdom",
+        "latitude": 52.50000000000001,
+        "longitude": -4.416666999999999
+    },
+    {
+        "location": "スパイクタウン",
+        "realLocation": "ランディドノ",
+        "address": "Llandudno, UK",
+        "latitude": 53.324061,
+        "longitude": -3.827609
+    },
+    {
+        "location": "10ばんどうろ",
+        "realLocation": "チルターン丘陵+スノードン山",
+        "address": "Snowdon, Caernarfon LL55 4UL, UK",
+        "latitude": 53.068504,
+        "longitude": -4.0762766
+    },
+    {
+        "location": "シュートシティ",
+        "realLocation": "ロンドン",
+        "address": "London, UK",
+        "latitude": 51.5073509,
+        "longitude": -0.1277583
+    },
+    {
+        "location": "ホテルロンド・ロゼ",
+        "realLocation": "ビッグ・ベン",
+        "address": "Westminster, London SW1A 0AA, UK",
+        "latitude": 51.50072919999999,
+        "longitude": -0.1246254
+    },
+    {
+        "location": "ローズタワー",
+        "realLocation": "アルセロール・ミッタル・オービット",
+        "address": "Queen Elizabeth Olympic Park, 5 Thornton St, London E20 2AD, UK",
+        "latitude": 51.5384292,
+        "longitude": -0.0128618
+    },
+    {
+        "location": "ヨロイじま",
+        "realLocation": "マン島",
+        "address": "Isle of Man",
+        "latitude": 54.236107,
+        "longitude": -4.548056
+    },
+    {
+        "location": "カンムリせつげん",
+        "realLocation": "スコットランド",
+        "address": "Scotland, UK",
+        "latitude": 56.49067119999999,
+        "longitude": -4.2026458
+    },
+    {
+        "location": "フェナスシティ",
+        "realLocation": "フェニックス",
+        "address": "Phoenix, AZ, USA",
+        "latitude": 33.4483771,
+        "longitude": -112.0740373
+    },
+    {
+        "location": "パイラタウン",
+        "realLocation": "ブレンダ付近",
+        "address": "Kofa National Wildlife Refuge, Palm Canyon Rd, Yuma, AZ 85365, USA",
+        "latitude": 33.2664452,
+        "longitude": -113.8584758
+    },
+    {
+        "location": "アゲトビレッジ",
+        "realLocation": "フラッグスタッフ",
+        "address": "Flagstaff, AZ, USA",
+        "latitude": 35.1982836,
+        "longitude": -111.651302
+    },
+    {
+        "location": "アイオポート",
+        "realLocation": "カルビル湾",
+        "address": "Callville Bay, Nevada 89005, USA",
+        "latitude": 36.1285021,
+        "longitude": -114.6994494
+    },
+    {
+        "location": "ニケルダーク島",
+        "realLocation": "ボルダー諸島",
+        "address": "Boulder Islands, Nevada 89005, USA",
+        "latitude": 36.039702,
+        "longitude": -114.7677619
+    },
+    {
+        "location": "町外れのスタンド",
+        "realLocation": "アパッチ・ジャンクション",
+        "address": "Apache Junction, AZ, USA",
+        "latitude": 33.4150485,
+        "longitude": -111.5495777
+    },
+    {
+        "location": "ポケモン総合研究所",
+        "realLocation": "レイク・ミード国立保養地付近",
+        "address": "Lake Mead National Recreation Area, 10 Lakeshore Rd, Boulder City, NV 89005, USA",
+        "latitude": 36.1550863,
+        "longitude": -114.4559303
+    },
+    {
+        "location": "カミンコ博士の屋敷",
+        "realLocation": "プレスコット",
+        "address": "Prescott, AZ, USA",
+        "latitude": 34.5400242,
+        "longitude": -112.4685025
+    },
+    {
+        "location": "シャドーのラボ",
+        "realLocation": "タサヤン付近",
+        "address": "Tusayan, AZ 86023, USA",
+        "latitude": 35.9735954,
+        "longitude": -112.1265569
+    },
+    {
+        "location": "スナッチ団のアジト",
+        "realLocation": "化石の森国立公園",
+        "address": "Petrified Forest National Park, Arizona, USA",
+        "latitude": 34.9099897,
+        "longitude": -109.8067916
+    },
+    {
+        "location": "リブラ号",
+        "realLocation": "モーモン湖付近",
+        "address": "Mormon Lake, AZ 86038, USA",
+        "latitude": 34.9083543,
+        "longitude": -111.4632051
+    },
+    {
+        "location": "オーレスタジアム",
+        "realLocation": "レイクハバスシティ",
+        "address": "Lake Havasu City, AZ, USA",
+        "latitude": 34.483901,
+        "longitude": -114.3224548
+    },
+    {
+        "location": "バトル山",
+        "realLocation": "グランドキャニオンカイバブ高原",
+        "address": "Grand Canyon National Park, 20 S Entrance Rd, Grand Canyon Village, AZ 86023, USA",
+        "latitude": 36.054843,
+        "longitude": -112.122193
+    },
+    {
+        "location": "ポケスポット",
+        "realLocation": "ショー・ロー付近(岩場)/不明(オアシス)/グランドキャニオン(洞窟)",
+        "address": "Grand Canyon National Park, 20 S Entrance Rd, Grand Canyon Village, AZ 86023, USA",
+        "latitude": 36.054843,
+        "longitude": -112.122193
+    },
+    {
+        "location": "聖なる森〜聖なる森のほこら",
+        "realLocation": "ココニーノ森林国立公園",
+        "address": "Coconino National Forest, Lake Mary Rd, Flagstaff, AZ 86001, USA",
+        "latitude": 34.9632323,
+        "longitude": -111.4379045
+    },
+    {
+        "location": "リングタウン",
+        "realLocation": "岡山県倉敷市",
+        "address": "Kurashiki, Okayama, Japan",
+        "latitude": 34.5849782,
+        "longitude": 133.7719812
+    },
+    {
+        "location": "キサラそうげん",
+        "realLocation": "岡山県児島(旧町域)",
+        "address": "Okayama, Japan",
+        "latitude": 34.8963407,
+        "longitude": 133.6375314
+    },
+    {
+        "location": "ライラのもり",
+        "realLocation": "岡山県倉敷市+岡山市(東側)岡山県総社市 浅口市付近(西側)",
+        "address": "Asakuchi, Okayama, Japan",
+        "latitude": 34.5278237,
+        "longitude": 133.5848277
+    },
+    {
+        "location": "クロッカトンネル",
+        "realLocation": "岡山県岡山市北部 備前市",
+        "address": "Bizen, Okayama, Japan",
+        "latitude": 34.7451943,
+        "longitude": 134.1881743
+    },
+    {
+        "location": "フォルシティ",
+        "realLocation": "兵庫県赤穂市または岡山県瀬戸内市",
+        "address": "Hyogo Prefectural Ako Seaside Park, 1857-5 Misaki, Ako, Hyogo 678-0215, Japan",
+        "latitude": 34.7331537,
+        "longitude": 134.3984045
+    },
+    {
+        "location": "ヨナべこうじょう",
+        "realLocation": "赤穂市海浜公園",
+        "address": "Hyogo Prefectural Ako Seaside Park, 1857-5 Misaki, Ako, Hyogo 678-0215, Japan",
+        "latitude": 34.7331537,
+        "longitude": 134.3984045
+    },
+    {
+        "location": "サマランド",
+        "realLocation": "香川県小豆島",
+        "address": "Shōdo Island, Shozu District, Kagawa, Japan",
+        "latitude": 34.5056561,
+        "longitude": 134.3047285
+    },
+    {
+        "location": "サフラのうみ",
+        "realLocation": "瀬戸内海 +豊島",
+        "address": "Teshima, Tonosho, Shozu District, Kagawa, Japan",
+        "latitude": 34.4814834,
+        "longitude": 134.0722578
+    },
+    {
+        "location": "オリブジャングル",
+        "realLocation": "小豆島寒霞渓",
+        "address": "Kankakei Ropeway, Kankakedōri, Shodoshima, Shōzu-gun, Kagawa 761-4433, Japan",
+        "latitude": 34.5120622,
+        "longitude": 134.2985794
+    },
+    {
+        "location": "ジャングルのいせき",
+        "realLocation": "小豆島八十八箇所",
+        "address": "Japan, 〒761-4101 Kagawa, Shōzu-gun, Tonosho, Nishihonmachi, 甲6134−2",
+        "latitude": 34.4851769,
+        "longitude": 134.1801569
+    },
+    {
+        "location": "パヌラのどうくつ",
+        "realLocation": "百間川",
+        "address": "148-1 Urayasu Nishimachi, Minami-ku, Okayama, 702-8025, Japan",
+        "latitude": 34.600555,
+        "longitude": 133.912678
+    },
+    {
+        "location": "ウィンタウン",
+        "realLocation": "岡山県赤磐市",
+        "address": "Akaiwa, Okayama, Japan",
+        "latitude": 34.7553712,
+        "longitude": 134.0187579
+    },
+    {
+        "location": "シクラさんみゃく",
+        "realLocation": "中国山地",
+        "address": "Monts Chūgoku, Daisen, District de Saihaku, Préfecture de Tottori 689-3318, Japan",
+        "latitude": 35.3710994,
+        "longitude": 133.5461718
+    },
+    {
+        "location": "フィオレしんでん",
+        "realLocation": "長服寺",
+        "address": "Mimasaka, Okayama, Japan",
+        "latitude": 35.0086247,
+        "longitude": 134.148604
+    },
+    {
+        "location": "レンジャースクール",
+        "realLocation": "トラピスト修道院?",
+        "address": "392 Mitsuishi, Hokuto, Hokkaido 049-0283, Japan",
+        "latitude": 41.740544,
+        "longitude": 140.568996
+    },
+    {
+        "location": "ビエンタウン",
+        "realLocation": "北海道江差町 厚沢部町",
+        "address": "Esashi, Hiyama District, Hokkaido, Japan",
+        "latitude": 41.8692269,
+        "longitude": 140.1275273
+    },
+    {
+        "location": "うみのどうくつ",
+        "realLocation": "木無山",
+        "address": "Kinashi-yama, Hokkaido, Japan",
+        "latitude": 43.0589305,
+        "longitude": 140.6059123
+    },
+    {
+        "location": "ビエンのもり",
+        "realLocation": "設計山 函館山",
+        "address": "Hakodateyama, Hakodate, Hokkaido 040-0000, Japan",
+        "latitude": 41.7593936,
+        "longitude": 140.7046566
+    },
+    {
+        "location": "チコレむら",
+        "realLocation": "北海道松前町",
+        "address": "Matsumae, Matsumae District, Hokkaido, Japan",
+        "latitude": 41.4300208,
+        "longitude": 140.1104794
+    },
+    {
+        "location": "プエルタウン",
+        "realLocation": "北海道函館市",
+        "address": "Hakodate, Hokkaido, Japan",
+        "latitude": 41.7686961,
+        "longitude": 140.7290599
+    },
+    {
+        "location": "アンヘルパーク",
+        "realLocation": "五稜郭公園",
+        "address": "Goryokaku Park, 44-2 Goryōkakuchō, Hakodate, Hokkaido 040-0001, Japan",
+        "latitude": 41.7968814,
+        "longitude": 140.7561137
+    },
+    {
+        "location": "アンヘルタワー",
+        "realLocation": "五稜郭タワー",
+        "address": "43-9 Goryōkakuchō, Hakodate, Hokkaido 040-0001, Japan",
+        "latitude": 41.7947351,
+        "longitude": 140.7540742
+    },
+    {
+        "location": "ユニオンかいどう〜ヌリエかいどう",
+        "realLocation": "黒松内新道",
+        "address": "Japan, 〒048-0136 Hokkaido, Suttsu-gun, Kuromatsunai, Akaikawa, 黒松内新道",
+        "latitude": 42.6470168,
+        "longitude": 140.4343497
+    },
+    {
+        "location": "イノチがけ",
+        "realLocation": "昆布岳",
+        "address": "Mt. Konbu, Kinuoka, Niseko, Abuta District, Hokkaido 048-1500, Japan",
+        "latitude": 42.7104907,
+        "longitude": 140.655618
+    },
+    {
+        "location": "ヌリエこうげん",
+        "realLocation": "羊蹄山",
+        "address": "Mount Yōtei, Kawanishi, Kutchan, Abuta District, Hokkaido 044-0131, Japan",
+        "latitude": 42.82697599999999,
+        "longitude": 140.806821
+    },
+    {
+        "location": "ボイルランド",
+        "realLocation": "青森県むつ市",
+        "address": "Mutsu, Aomori, Japan",
+        "latitude": 41.2927986,
+        "longitude": 141.1834683
+    },
+    {
+        "location": "ボイルかざん",
+        "realLocation": "恐山",
+        "address": "Mount Osore, Ohata, Mutsu, Aomori 039-4401, Japan",
+        "latitude": 41.308333,
+        "longitude": 141.088056
+    },
+    {
+        "location": "クリスタどうくつ",
+        "realLocation": "狩場山地",
+        "address": "Oshima Peninsula, Atagocho, Esashi, Hiyama District, Hokkaido 043-0031, Japan",
+        "latitude": 41.8797976,
+        "longitude": 140.1328006
+    },
+    {
+        "location": "ブルブルキャンプ",
+        "realLocation": "北海道ニセコ町",
+        "address": "Niseko, Abuta District, Hokkaido, Japan",
+        "latitude": 42.8047856,
+        "longitude": 140.6874494
+    },
+    {
+        "location": "ヒアバレー",
+        "realLocation": "ニセコアンヌプリ",
+        "address": "Mt. Niseko-Annupuri, Iwaobetsu, Kutchan, Abuta District, Hokkaido 044-0082, Japan",
+        "latitude": 42.8748819,
+        "longitude": 140.6587834
+    },
+    {
+        "location": "かいていゆでんアジト",
+        "realLocation": "青函トンネル",
+        "address": "99 Minmayatatsuhama, Sotogahama, Higashitsugaru-gun, Aomori 030-1711, Japan",
+        "latitude": 41.2540614,
+        "longitude": 140.3471872
+    },
+    {
+        "location": "プエルおき",
+        "realLocation": "津軽海峡",
+        "address": "Tsugaru Straits, Japan",
+        "latitude": 41.2955896,
+        "longitude": 140.7959595
+    },
+    {
+        "location": "ホエルオーのうみ",
+        "realLocation": "青森県陸奥湾",
+        "address": "Aomori, Japan",
+        "latitude": 40.8222197,
+        "longitude": 140.7473524
+    },
+    {
+        "location": "ハルバむら",
+        "realLocation": "青森県つがる市",
+        "address": "Tsugaru, Aomori, Japan",
+        "latitude": 40.808222,
+        "longitude": 140.3805004
+    },
+    {
+        "location": "カバルドンしんでん",
+        "realLocation": "青森県三内丸山遺跡",
+        "address": "Maruyama-305 Sannai, Aomori, 038-0031, Japan",
+        "latitude": 40.8099171,
+        "longitude": 140.6957601
+    },
+    {
+        "location": "キャプチャ・アリーナ",
+        "realLocation": "渡島大島",
+        "address": "Oshima Island, Oshima, Matsumae, Matsumae District, Hokkaido 049-1500, Japan",
+        "latitude": 41.5075098,
+        "longitude": 139.354181
+    },
+    {
+        "location": "ドロップじま",
+        "realLocation": "神島",
+        "address": "Kami-shima, Kamishimacho, Toba, Mie 517-0001, Japan",
+        "latitude": 34.5476029,
+        "longitude": 136.9817249
+    },
+    {
+        "location": "レインボじま",
+        "realLocation": "知夫里島",
+        "address": "Chiburijima, Chibu, Oki District, Shimane, Japan",
+        "latitude": 36.0181295,
+        "longitude": 133.0340624
+    },
+    {
+        "location": "ココナむら",
+        "realLocation": "知夫村",
+        "address": "Chibu, Oki District, Shimane, Japan",
+        "latitude": 36.0139223,
+        "longitude": 133.0395309
+    },
+    {
+        "location": "チークのもり",
+        "realLocation": "仁夫",
+        "address": "Chibu, Oki District, Shimane, Japan",
+        "latitude": 36.0139223,
+        "longitude": 133.0395309
+    },
+    {
+        "location": "ヤスリどうくつ",
+        "realLocation": "隠岐知夫赤壁",
+        "address": "Nibu, Chibu, Oki District, Shimane 684-0100, Japan",
+        "latitude": 36.0098657,
+        "longitude": 133.0098599
+    },
+    {
+        "location": "ラプラスビーチ",
+        "realLocation": "浅島",
+        "address": "Asa Island, Nibu, Chibu, Oki District, Shimane 684-0105, Japan",
+        "latitude": 35.9958181,
+        "longitude": 133.0398296
+    },
+    {
+        "location": "クルリのいりえ/ドンツキみさき",
+        "realLocation": "薄毛",
+        "address": "Usuge, Chibu, Oki District, Shimane 684-0104, Japan",
+        "latitude": 36.004041,
+        "longitude": 133.0607682
+    },
+    {
+        "location": "ラトラトさんどう",
+        "realLocation": "県道322号線",
+        "address": "Japan, Fukuoka, 国道322号",
+        "latitude": 33.5511634,
+        "longitude": 130.7392827
+    },
+    {
+        "location": "ラトラトやま",
+        "realLocation": "赤ハゲ山",
+        "address": "Urumi, Chibu, Oki District, Shimane 684-0100, Japan",
+        "latitude": 36.0208084,
+        "longitude": 133.014935
+    },
+    {
+        "location": "むせんきち",
+        "realLocation": "赤ハゲ山展望台",
+        "address": "Urumi, Chibu, Oki District, Shimane 684-0100, Japan",
+        "latitude": 36.0208084,
+        "longitude": 133.014935
+    },
+    {
+        "location": "ミロンダじま",
+        "realLocation": "中ノ島",
+        "address": "Nakanoshima, Ama, Oki District, Shimane, Japan",
+        "latitude": 36.0857442,
+        "longitude": 133.1020131
+    },
+    {
+        "location": "サマヨイのもり〜ふるいやしき",
+        "realLocation": "宮田神社",
+        "address": "1495 Akagimachi Miyada, Shibukawa-shi, Gunma 379-1121, Japan",
+        "latitude": 36.5193541,
+        "longitude": 139.0313457
+    },
+    {
+        "location": "アサヒのいせき",
+        "realLocation": "隠岐神社",
+        "address": "1784 Ama, Oki-gun, Shimane 684-0403, Japan",
+        "latitude": 36.0957798,
+        "longitude": 133.1012778
+    },
+    {
+        "location": "ミロンダかいどう",
+        "realLocation": "唯山",
+        "address": "Yuiyama, Chichii, Ama, Oki District, Shimane 684-0411, Japan",
+        "latitude": 36.0926903,
+        "longitude": 133.1141132
+    },
+    {
+        "location": "キケンながけ",
+        "realLocation": "大字知々井",
+        "address": "Chichii, Ama, Oki District, Shimane 684-0411, Japan",
+        "latitude": 36.078242,
+        "longitude": 133.123835
+    },
+    {
+        "location": "ファルデラじま",
+        "realLocation": "松島",
+        "address": "Matsushima, Miyagi District, Miyagi, Japan",
+        "latitude": 38.3801905,
+        "longitude": 141.067293
+    },
+    {
+        "location": "ソピアナじま",
+        "realLocation": "島後島",
+        "address": "Dōgojima, Okinoshima, Oki District, Shimane, Japan",
+        "latitude": 36.2496353,
+        "longitude": 133.2829617
+    },
+    {
+        "location": "アクアリゾート",
+        "realLocation": "隠岐の島町",
+        "address": "Okinoshima, Oki District, Shimane, Japan",
+        "latitude": 36.20915,
+        "longitude": 133.3216953
+    },
+    {
+        "location": "ソルベラスやま",
+        "realLocation": "大満寺山",
+        "address": "Mt. Daimanji, Fuse, Okinoshima, Oki District, Shimane 685-0412, Japan",
+        "latitude": 36.257128,
+        "longitude": 133.3304442
+    },
+    {
+        "location": "ソピアナかいどう",
+        "realLocation": "県道323号線 県道44号線",
+        "address": "Japan, Saitama, 県道323号",
+        "latitude": 35.9710853,
+        "longitude": 139.6015093
+    },
+    {
+        "location": "シルバーフォール〜オブリビアいせき",
+        "realLocation": "壇鏡の滝・壇鏡神社",
+        "address": "1617 Nagu, Okinoshima, Oki-gun, Shimane 685-0103, Japan",
+        "latitude": 36.240693,
+        "longitude": 133.2356868
+    },
+    {
+        "location": "カナルのいせき",
+        "realLocation": "隠岐国分寺跡？",
+        "address": "Furomae-5 Ikeda, Okinoshima, Oki-gun, Shimane 685-0007, Japan",
+        "latitude": 36.2243607,
+        "longitude": 133.3073243
+    },
+    {
+        "location": "ライウンやま",
+        "realLocation": "西ノ島焼火山",
+        "address": "Mt. Takuhi, Mita, Nishinoshima, Oki District, Shimane 684-0303, Japan",
+        "latitude": 36.0747637,
+        "longitude": 133.0315525
+    },
+    {
+        "location": "シクレレじま",
+        "realLocation": "竹島",
+        "address": "Liancourt Rocks",
+        "latitude": 37.2429362,
+        "longitude": 131.8668421
+    },
+    {
+        "location": "にじのさいだん",
+        "realLocation": "大柱島付近？",
+        "address": "Hashira Island, Hashirajima, Iwakuni, Yamaguchi 740-0051, Japan",
+        "latitude": 34.0182854,
+        "longitude": 132.4159614
+    },
+    {
+        "location": "フェルム旧市街",
+        "realLocation": "ドームス・デ・マリーア",
+        "address": "09010 Domus de Maria, South Sardinia, Italy",
+        "latitude": 38.9632926,
+        "longitude": 8.8583309
+    },
+    {
+        "location": "テクネシティ",
+        "realLocation": "カピタナ",
+        "address": "09045 Capitana CA, Italy",
+        "latitude": 39.2093022,
+        "longitude": 9.310804
+    },
+    {
+        "location": "テルルタウン",
+        "realLocation": "ドリアノーヴァ",
+        "address": "09041 Dolianova, South Sardinia, Italy",
+        "latitude": 39.3772093,
+        "longitude": 9.175792099999999
+    },
+    {
+        "location": "フェルムスタジアム",
+        "realLocation": "ナルカーオ",
+        "address": "09010 Narcao, South Sardinia, Italy",
+        "latitude": 39.167219,
+        "longitude": 8.6770082
+    },
+    {
+        "location": "ネオスシティ",
+        "realLocation": "カリャリ",
+        "address": "Cagliari, Metropolitan City of Cagliari, Italy",
+        "latitude": 39.2238411,
+        "longitude": 9.1216613
+    },
+    {
+        "location": "セレンアイランド",
+        "realLocation": "サン・ピエトロ島/サンタンティオコ島",
+        "address": "Sant'Antioco, South Sardinia, Italy",
+        "latitude": 39.0373917,
+        "longitude": 8.418422399999999
+    },
+    {
+        "location": "おばけやしき",
+        "realLocation": "カルボニア",
+        "address": "09013 Carbonia, South Sardinia, Italy",
+        "latitude": 39.16442809999999,
+        "longitude": 8.522885300000002
+    },
+    {
+        "location": "サリアビーチ",
+        "realLocation": "カヴォリ島",
+        "address": "Cavoli Island, Italy",
+        "latitude": 39.0863085,
+        "longitude": 9.5313443
+    },
+    {
+        "location": "ふりだしの草原",
+        "realLocation": "宿毛市",
+        "address": "Sukumo, Kochi, Japan",
+        "latitude": 32.9389868,
+        "longitude": 132.7261631
+    },
+    {
+        "location": "しめり森",
+        "realLocation": "八幡浜市",
+        "address": "Yawatahama, Ehime, Japan",
+        "latitude": 33.4628782,
+        "longitude": 132.4233981
+    },
+    {
+        "location": "ジグザグ川",
+        "realLocation": "仁淀川",
+        "address": "Niyodo River, Kochi, Japan",
+        "latitude": 33.5366853,
+        "longitude": 133.2556537
+    },
+    {
+        "location": "かわき山",
+        "realLocation": "石鎚山",
+        "address": "Mount Ishizuchi, Wakayama, Kumakogen, Kamiukena District, Ehime 791-1710, Japan",
+        "latitude": 33.7682517,
+        "longitude": 133.1142954
+    },
+    {
+        "location": "ヘソのほら穴",
+        "realLocation": "別子銅山",
+        "address": "Besshiyama, Niihama, Ehime 799-0650, Japan",
+        "latitude": 33.8481508,
+        "longitude": 133.3777273
+    },
+    {
+        "location": "はりやま原野",
+        "realLocation": "安芸市",
+        "address": "Aki, Kochi, Japan",
+        "latitude": 33.5025379,
+        "longitude": 133.9071048
+    },
+    {
+        "location": "うつろ森",
+        "realLocation": "祖谷峡",
+        "address": "162-2 Nishiiyayamamura Zentoku, Miyoshi, Tokushima 778-0102, Japan",
+        "latitude": 33.8751458,
+        "longitude": 133.8353782
+    },
+    {
+        "location": "シジマ台地",
+        "realLocation": "高松市",
+        "address": "Takamatsu, Kagawa, Japan",
+        "latitude": 34.342542,
+        "longitude": 134.0465405
+    },
+    {
+        "location": "あかりの洞窟",
+        "realLocation": "美波町恵比須洞",
+        "address": "Hiwasaura, Minami, Kaifu District, Tokushima 779-2304, Japan",
+        "latitude": 33.73576320000001,
+        "longitude": 134.5495028
+    },
+    {
+        "location": "はての海辺",
+        "realLocation": "室戸岬",
+        "address": "Cape Muroto, Murotomisakicho, Muroto, Kochi 781-7101, Japan",
+        "latitude": 33.2432991,
+        "longitude": 134.1764781
+    },
+    {
+        "location": "伝説の間",
+        "realLocation": "高知市",
+        "address": "Kochi, Japan",
+        "latitude": 33.5588821,
+        "longitude": 133.5312383
+    },
+    {
+        "location": "きぐうの島",
+        "realLocation": "桂浜",
+        "address": "桂浜 Urado, Kochi, 781-0262, Japan",
+        "latitude": 33.4971366,
+        "longitude": 133.5749209
+    }
+]
